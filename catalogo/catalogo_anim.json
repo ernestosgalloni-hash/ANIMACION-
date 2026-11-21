@@ -1,0 +1,1953 @@
+{
+"animaciones": [
+{
+"id": "emote_1",
+"label": "Emote ?, !, sweat, bulb",
+"grupo": "personajes",
+"a": 0,
+"b": 1.7
+},
+{
+"id": "emote_2_tint",
+"label": "Emote hearts, anger, tear, zzz + tint (tinte del cuerpo)",
+"grupo": "personajes",
+"a": 1.7,
+"b": 3.433
+},
+{
+"id": "aura_pray",
+"label": "Aura + pose pray",
+"grupo": "personajes",
+"a": 3.433,
+"b": 4.933
+},
+{
+"id": "iris",
+"label": "Iris (ring = círculo flotante)",
+"grupo": "escena",
+"a": 0,
+"b": 1.333
+},
+{
+"id": "barcompare",
+"label": "BarCompare (barras)",
+"grupo": "explicar",
+"a": 0,
+"b": 1.733
+},
+{
+"id": "dial_loadbar",
+"label": "Dial + LoadBar",
+"grupo": "explicar",
+"a": 1.733,
+"b": 3.567
+},
+{
+"id": "maproute",
+"label": "MapRoute (ruta + pines)",
+"grupo": "explicar",
+"a": 3.567,
+"b": 5.3
+},
+{
+"id": "magnifier",
+"label": "Magnifier (lupa)",
+"grupo": "explicar",
+"a": 5.3,
+"b": 6.8
+},
+{
+"id": "morph",
+"label": "Morph (objeto → objeto)",
+"grupo": "escena",
+"a": 1.333,
+"b": 2.667
+},
+{
+"id": "pointhand_flash",
+"label": "PointHand + Flash",
+"grupo": "escena",
+"a": 2.667,
+"b": 4.033
+},
+{
+"id": "papertear",
+"label": "PaperTear (papel rasgado)",
+"grupo": "escena",
+"a": 4.033,
+"b": 5.533
+},
+{
+"id": "zoominto",
+"label": "ZoomInto (zoom adentro)",
+"grupo": "escena",
+"a": 5.533,
+"b": 6.867
+},
+{
+"id": "typetext",
+"label": "TypeText (máquina de escribir)",
+"grupo": "texto",
+"a": 0,
+"b": 1.833
+},
+{
+"id": "wordpop",
+"label": "WordPop (palabra por palabra)",
+"grupo": "texto",
+"a": 1.833,
+"b": 3.533
+},
+{
+"id": "postit_handcircle",
+"label": "PostIt + HandCircle",
+"grupo": "texto",
+"a": 3.533,
+"b": 5.033
+},
+{
+"id": "strike_textstamp",
+"label": "Strike + TextStamp (MITO)",
+"grupo": "texto",
+"a": 5.033,
+"b": 6.733
+},
+{
+"id": "callout",
+"label": "Callout (etiqueta con flecha)",
+"grupo": "texto",
+"a": 6.733,
+"b": 8.267
+},
+{
+"id": "checklist",
+"label": "Checklist",
+"grupo": "texto",
+"a": 8.267,
+"b": 10.3
+},
+{
+"id": "thoughtcloud",
+"label": "ThoughtCloud (nube de pensamiento)",
+"grupo": "personajes",
+"a": 4.933,
+"b": 6.467
+},
+{
+"id": "timeline",
+"label": "Timeline (línea de tiempo)",
+"grupo": "explicar",
+"a": 6.8,
+"b": 9.167
+},
+{
+"id": "tree",
+"label": "Tree (genealogía / relaciones)",
+"grupo": "explicar",
+"a": 9.167,
+"b": 11.5
+},
+{
+"id": "vs",
+"label": "VS (pantalla dividida)",
+"grupo": "explicar",
+"a": 11.5,
+"b": 13.0
+},
+{
+"id": "spotlight",
+"label": "Spotlight (foco)",
+"grupo": "ambiente",
+"a": 0,
+"b": 1.5
+},
+{
+"id": "scroll",
+"label": "Scroll (pergamino)",
+"grupo": "texto",
+"a": 10.3,
+"b": 12.0
+},
+{
+"id": "walk",
+"label": "Walk (caminar)",
+"grupo": "personajes",
+"a": 6.467,
+"b": 8.167
+},
+{
+"id": "jump",
+"label": "Jump (salto)",
+"grupo": "personajes",
+"a": 8.167,
+"b": 9.533
+},
+{
+"id": "faint",
+"label": "Faint (desmayo)",
+"grupo": "personajes",
+"a": 9.533,
+"b": 10.867
+},
+{
+"id": "drop",
+"label": "Drop (caída con golpe)",
+"grupo": "personajes",
+"a": 10.867,
+"b": 12.2
+},
+{
+"id": "shake",
+"label": "Shake (temblor de objeto)",
+"grupo": "personajes",
+"a": 12.2,
+"b": 13.567
+},
+{
+"id": "multiply",
+"label": "Multiply (multiplicar)",
+"grupo": "explicar",
+"a": 13.0,
+"b": 14.833
+},
+{
+"id": "crowd",
+"label": "Crowd (multitud)",
+"grupo": "personajes",
+"a": 13.567,
+"b": 15.067
+},
+{
+"id": "burst",
+"label": "Burst (estallido de destellos)",
+"grupo": "ambiente",
+"a": 1.5,
+"b": 2.833
+},
+{
+"id": "confetti",
+"label": "Confetti",
+"grupo": "ambiente",
+"a": 2.833,
+"b": 4.7
+},
+{
+"id": "rain",
+"label": "Rain (lluvia)",
+"grupo": "ambiente",
+"a": 4.7,
+"b": 6.2
+},
+{
+"id": "floaters",
+"label": "Floaters (polvo / brasas / nieve)",
+"grupo": "ambiente",
+"a": 6.2,
+"b": 7.7
+},
+{
+"id": "oldfilm",
+"label": "OldFilm (película vieja)",
+"grupo": "ambiente",
+"a": 7.7,
+"b": 9.2
+},
+{
+"id": "rewind",
+"label": "Rewind (rebobinar)",
+"grupo": "escena",
+"a": 6.867,
+"b": 8.2
+},
+{
+"id": "item",
+"label": "item (sostener objetos)",
+"grupo": "personajes",
+"a": 15.067,
+"b": 16.567
+},
+{
+"id": "kneel_halo",
+"label": "Kneel + Halo",
+"grupo": "personajes",
+"a": 16.567,
+"b": 18.067
+},
+{
+"id": "ascend",
+"label": "Ascend (ascensión)",
+"grupo": "relatos",
+"a": 0,
+"b": 2.0
+},
+{
+"id": "heavenrays_dove",
+"label": "HeavenRays + DoveDescend",
+"grupo": "relatos",
+"a": 2.0,
+"b": 3.7
+},
+{
+"id": "wings",
+"label": "Wings (alas de ángel)",
+"grupo": "relatos",
+"a": 3.7,
+"b": 5.233
+},
+{
+"id": "flame",
+"label": "Flame (Pentecostés)",
+"grupo": "relatos",
+"a": 5.233,
+"b": 6.767
+},
+{
+"id": "fire",
+"label": "Fire (zarza / fuego)",
+"grupo": "relatos",
+"a": 6.767,
+"b": 8.633
+},
+{
+"id": "daynight",
+"label": "DayNight (día → noche)",
+"grupo": "ambiente",
+"a": 9.2,
+"b": 11.533
+},
+{
+"id": "darkness",
+"label": "Darkness (oscuridad)",
+"grupo": "ambiente",
+"a": 11.533,
+"b": 13.233
+},
+{
+"id": "seapart",
+"label": "SeaPart (mar que se abre)",
+"grupo": "relatos",
+"a": 8.633,
+"b": 10.633
+},
+{
+"id": "floodrise",
+"label": "FloodRise (diluvio)",
+"grupo": "relatos",
+"a": 10.633,
+"b": 12.633
+},
+{
+"id": "stormsea_lightning",
+"label": "StormSea + Lightning",
+"grupo": "relatos",
+"a": 12.633,
+"b": 14.467
+},
+{
+"id": "earthquake",
+"label": "Earthquake (terremoto)",
+"grupo": "relatos",
+"a": 14.467,
+"b": 16.167
+},
+{
+"id": "rainbow",
+"label": "Rainbow (arcoíris)",
+"grupo": "relatos",
+"a": 16.167,
+"b": 17.667
+},
+{
+"id": "guidestar",
+"label": "GuideStar (estrella guía)",
+"grupo": "relatos",
+"a": 17.667,
+"b": 19.667
+},
+{
+"id": "starsfill",
+"label": "StarsFill (cielo se llena)",
+"grupo": "relatos",
+"a": 19.667,
+"b": 21.667
+},
+{
+"id": "swarm",
+"label": "Swarm (plaga)",
+"grupo": "relatos",
+"a": 21.667,
+"b": 23.5
+},
+{
+"id": "wallsfall",
+"label": "WallsFall (Jericó)",
+"grupo": "relatos",
+"a": 23.5,
+"b": 25.333
+},
+{
+"id": "stoneroll",
+"label": "StoneRoll (sepulcro)",
+"grupo": "relatos",
+"a": 25.333,
+"b": 27.367
+},
+{
+"id": "veiltear",
+"label": "VeilTear (velo del templo)",
+"grupo": "relatos",
+"a": 27.367,
+"b": 28.9
+},
+{
+"id": "chainsbreak",
+"label": "ChainsBreak (cadenas)",
+"grupo": "relatos",
+"a": 28.9,
+"b": 30.433
+},
+{
+"id": "colorfill",
+"label": "ColorFill (agua en vino)",
+"grupo": "relatos",
+"a": 30.433,
+"b": 32.167
+},
+{
+"id": "pillar",
+"label": "Pillar (columna de fuego / nube)",
+"grupo": "relatos",
+"a": 32.167,
+"b": 33.867
+},
+{
+"id": "scaleref",
+"label": "ScaleRef (escala)",
+"grupo": "explicar",
+"a": 14.833,
+"b": 16.533
+},
+{
+"id": "versecard",
+"label": "VerseCard (versículo)",
+"grupo": "texto",
+"a": 12.0,
+"b": 13.867
+},
+{
+"id": "captions",
+"label": "Captions (subtítulos)",
+"grupo": "texto",
+"a": 13.867,
+"b": 16.2
+},
+{
+"id": "endcta",
+"label": "EndCTA (cierre)",
+"grupo": "texto",
+"a": 16.2,
+"b": 17.7
+},
+{
+"id": "emote_3",
+"label": "Emote ?!, gloom, shock, sparkle, heartbreak, money",
+"grupo": "personajes",
+"a": 18.067,
+"b": 19.9
+},
+{
+"id": "emote_4",
+"label": "Emote skull, clock, dots, blush, check, soul",
+"grupo": "personajes",
+"a": 19.9,
+"b": 21.733
+},
+{
+"id": "poses",
+"label": "Poses think, facepalm, clap, hips, stop, shy",
+"grupo": "personajes",
+"a": 21.733,
+"b": 23.1
+},
+{
+"id": "head",
+"label": "Cabeza: nodAt, headShakeAt, tiltAt, doubleTakeAt",
+"grupo": "personajes",
+"a": 23.1,
+"b": 24.8
+},
+{
+"id": "tremble_deflate_puffup",
+"label": "Tremble, Deflate, PuffUp",
+"grupo": "personajes",
+"a": 24.8,
+"b": 26.533
+},
+{
+"id": "recoil_bow_bounce",
+"label": "Recoil, Bow, Bounce",
+"grupo": "personajes",
+"a": 26.533,
+"b": 28.233
+},
+{
+"id": "moveto_heartbeat",
+"label": "MoveTo + HeartBeat",
+"grupo": "personajes",
+"a": 28.233,
+"b": 30.067
+},
+{
+"id": "argue",
+"label": "Discusión: Bubble + tint + anger",
+"grupo": "personajes",
+"a": 30.067,
+"b": 31.767
+},
+{
+"id": "moodtint",
+"label": "MoodTint (ánimo)",
+"grupo": "ambiente",
+"a": 13.233,
+"b": 14.733
+},
+{
+"id": "speedlines",
+"label": "SpeedLines",
+"grupo": "ambiente",
+"a": 14.733,
+"b": 16.067
+},
+{
+"id": "impactburst",
+"label": "ImpactBurst (¡NO!)",
+"grupo": "ambiente",
+"a": 16.067,
+"b": 17.4
+},
+{
+"id": "punchin",
+"label": "PunchIn",
+"grupo": "escena",
+"a": 8.2,
+"b": 9.733
+},
+{
+"id": "freezeframe",
+"label": "FreezeFrame",
+"grupo": "escena",
+"a": 9.733,
+"b": 11.6
+},
+{
+"id": "vignette",
+"label": "Vignette",
+"grupo": "ambiente",
+"a": 17.4,
+"b": 18.9
+},
+{
+"id": "letterpop",
+"label": "LetterPop (letra por letra)",
+"grupo": "texto",
+"a": 17.7,
+"b": 19.2
+},
+{
+"id": "highlight",
+"label": "Highlight (resaltador)",
+"grupo": "texto",
+"a": 19.2,
+"b": 20.7
+},
+{
+"id": "underline",
+"label": "Underline (subrayado a mano)",
+"grupo": "texto",
+"a": 20.7,
+"b": 22.2
+},
+{
+"id": "quotecard",
+"label": "QuoteCard (cita de personaje)",
+"grupo": "texto",
+"a": 22.2,
+"b": 24.2
+},
+{
+"id": "definition",
+"label": "Definition (definición)",
+"grupo": "texto",
+"a": 24.2,
+"b": 26.033
+},
+{
+"id": "originalword_griego",
+"label": "OriginalWord (griego)",
+"grupo": "texto",
+"a": 26.033,
+"b": 27.867
+},
+{
+"id": "originalword_hebreo",
+"label": "OriginalWord (hebreo)",
+"grupo": "texto",
+"a": 27.867,
+"b": 29.733
+},
+{
+"id": "bigstat",
+"label": "BigStat (dato grande)",
+"grupo": "texto",
+"a": 29.733,
+"b": 31.233
+},
+{
+"id": "lowerthird",
+"label": "LowerThird (rótulo de personaje)",
+"grupo": "texto",
+"a": 31.233,
+"b": 32.933
+},
+{
+"id": "datestamp",
+"label": "DateStamp (lugar y fecha)",
+"grupo": "texto",
+"a": 32.933,
+"b": 34.467
+},
+{
+"id": "bigquestion",
+"label": "BigQuestion (pregunta gancho)",
+"grupo": "texto",
+"a": 34.467,
+"b": 36.0
+},
+{
+"id": "textswap",
+"label": "TextSwap (palabra que se corrige)",
+"grupo": "texto",
+"a": 36.0,
+"b": 37.733
+},
+{
+"id": "numberedlist",
+"label": "NumberedList (lista numerada)",
+"grupo": "texto",
+"a": 37.733,
+"b": 39.733
+},
+{
+"id": "ribbon",
+"label": "Ribbon (cinta)",
+"grupo": "texto",
+"a": 39.733,
+"b": 41.067
+},
+{
+"id": "badge",
+"label": "Badge (insignia)",
+"grupo": "texto",
+"a": 41.067,
+"b": 42.433
+},
+{
+"id": "wordclash",
+"label": "WordClash (palabras que chocan)",
+"grupo": "texto",
+"a": 42.433,
+"b": 43.933
+},
+{
+"id": "source",
+"label": "Source (fuente abajo)",
+"grupo": "texto",
+"a": 43.933,
+"b": 45.267
+},
+{
+"id": "chalkboard",
+"label": "Chalkboard (pizarrón)",
+"grupo": "texto",
+"a": 45.267,
+"b": 47.267
+},
+{
+"id": "headline",
+"label": "Headline (titular de diario)",
+"grupo": "texto",
+"a": 47.267,
+"b": 48.967
+},
+{
+"id": "chatthread",
+"label": "ChatThread (chat)",
+"grupo": "texto",
+"a": 48.967,
+"b": 50.967
+},
+{
+"id": "countdown",
+"label": "Countdown (cuenta regresiva)",
+"grupo": "texto",
+"a": 50.967,
+"b": 52.634
+},
+{
+"id": "piechart",
+"label": "PieChart (torta)",
+"grupo": "explicar",
+"a": 16.533,
+"b": 18.233
+},
+{
+"id": "linechart",
+"label": "LineChart (línea)",
+"grupo": "explicar",
+"a": 18.233,
+"b": 20.1
+},
+{
+"id": "venn",
+"label": "Venn",
+"grupo": "explicar",
+"a": 20.1,
+"b": 21.933
+},
+{
+"id": "flowchart",
+"label": "Flowchart (diagrama de flujo)",
+"grupo": "explicar",
+"a": 21.933,
+"b": 23.933
+},
+{
+"id": "cycle",
+"label": "Cycle (ciclo)",
+"grupo": "explicar",
+"a": 23.933,
+"b": 26.133
+},
+{
+"id": "pyramid",
+"label": "Pyramid (pirámide)",
+"grupo": "explicar",
+"a": 26.133,
+"b": 27.833
+},
+{
+"id": "staircase",
+"label": "Staircase (escalera)",
+"grupo": "explicar",
+"a": 27.833,
+"b": 29.7
+},
+{
+"id": "comparetable",
+"label": "CompareTable (tabla comparativa)",
+"grupo": "explicar",
+"a": 29.7,
+"b": 31.7
+},
+{
+"id": "balance",
+"label": "Balance (balanza)",
+"grupo": "explicar",
+"a": 31.7,
+"b": 33.533
+},
+{
+"id": "iceberg",
+"label": "Iceberg",
+"grupo": "explicar",
+"a": 33.533,
+"b": 35.533
+},
+{
+"id": "pictogram",
+"label": "Pictogram (pictograma)",
+"grupo": "explicar",
+"a": 35.533,
+"b": 37.233
+},
+{
+"id": "thermometer",
+"label": "Thermometer (termómetro)",
+"grupo": "explicar",
+"a": 37.233,
+"b": 38.933
+},
+{
+"id": "hourglass",
+"label": "Hourglass (reloj de arena)",
+"grupo": "explicar",
+"a": 38.933,
+"b": 40.967
+},
+{
+"id": "mindmap",
+"label": "MindMap (mapa mental)",
+"grupo": "explicar",
+"a": 40.967,
+"b": 43.0
+},
+{
+"id": "concentric",
+"label": "Concentric (círculos concéntricos)",
+"grupo": "explicar",
+"a": 43.0,
+"b": 44.733
+},
+{
+"id": "causeeffect",
+"label": "CauseEffect (causa → efecto)",
+"grupo": "explicar",
+"a": 44.733,
+"b": 46.433
+},
+{
+"id": "matrix2x2",
+"label": "Matrix2x2 (matriz)",
+"grupo": "explicar",
+"a": 46.433,
+"b": 48.433
+},
+{
+"id": "spectrum",
+"label": "Spectrum (espectro)",
+"grupo": "explicar",
+"a": 48.433,
+"b": 50.133
+},
+{
+"id": "stack",
+"label": "Stack (bloques apilados)",
+"grupo": "explicar",
+"a": 50.133,
+"b": 52.5
+},
+{
+"id": "percentring",
+"label": "PercentRing (anillo %)",
+"grupo": "explicar",
+"a": 52.5,
+"b": 54.2
+},
+{
+"id": "beforeafter",
+"label": "BeforeAfter (antes / después)",
+"grupo": "explicar",
+"a": 54.2,
+"b": 55.933
+},
+{
+"id": "calendarmark",
+"label": "CalendarMark (calendario)",
+"grupo": "explicar",
+"a": 55.933,
+"b": 57.633
+},
+{
+"id": "puzzle",
+"label": "Puzzle (rompecabezas)",
+"grupo": "explicar",
+"a": 57.633,
+"b": 59.467
+},
+{
+"id": "cardslide",
+"label": "CardSlide (tarjeta que entra)",
+"grupo": "escena",
+"a": 11.6,
+"b": 13.0
+},
+{
+"id": "blinds",
+"label": "Blinds (persianas)",
+"grupo": "escena",
+"a": 13.0,
+"b": 14.4
+},
+{
+"id": "blinds_v",
+"label": "Blinds vertical",
+"grupo": "escena",
+"a": 14.4,
+"b": 15.8
+},
+{
+"id": "tilereveal",
+"label": "TileReveal (mosaico)",
+"grupo": "escena",
+"a": 15.8,
+"b": 17.2
+},
+{
+"id": "inkspread",
+"label": "InkSpread (mancha de tinta)",
+"grupo": "escena",
+"a": 17.2,
+"b": 18.6
+},
+{
+"id": "diagonalwipe",
+"label": "DiagonalWipe (barrido diagonal)",
+"grupo": "escena",
+"a": 18.6,
+"b": 20.0
+},
+{
+"id": "shape_cross",
+"label": "ShapeReveal cruz",
+"grupo": "escena",
+"a": 20.0,
+"b": 21.4
+},
+{
+"id": "shape_star",
+"label": "ShapeReveal estrella",
+"grupo": "escena",
+"a": 21.4,
+"b": 22.8
+},
+{
+"id": "shape_heart",
+"label": "ShapeReveal corazón",
+"grupo": "escena",
+"a": 22.8,
+"b": 24.2
+},
+{
+"id": "shape_flame",
+"label": "ShapeReveal llama",
+"grupo": "escena",
+"a": 24.2,
+"b": 25.6
+},
+{
+"id": "pageflip",
+"label": "PageFlip (giro de página)",
+"grupo": "escena",
+"a": 25.6,
+"b": 27.0
+},
+{
+"id": "cube",
+"label": "PageFlip cube (cubo)",
+"grupo": "escena",
+"a": 27.0,
+"b": 28.4
+},
+{
+"id": "zoomfrom",
+"label": "ZoomFrom (zoom desde el centro)",
+"grupo": "escena",
+"a": 28.4,
+"b": 29.8
+},
+{
+"id": "glitchcut",
+"label": "GlitchCut (corte glitch)",
+"grupo": "escena",
+"a": 29.8,
+"b": 31.2
+},
+{
+"id": "shatter",
+"label": "Shatter (vidrio que estalla)",
+"grupo": "escena",
+"a": 31.2,
+"b": 32.6
+},
+{
+"id": "spinin",
+"label": "SpinIn (giro)",
+"grupo": "escena",
+"a": 32.6,
+"b": 34.0
+},
+{
+"id": "doorsopen",
+"label": "DoorsOpen (puertas)",
+"grupo": "escena",
+"a": 34.0,
+"b": 35.4
+},
+{
+"id": "smokepuff",
+"label": "SmokePuff (humo)",
+"grupo": "escena",
+"a": 35.4,
+"b": 36.8
+},
+{
+"id": "lightleak",
+"label": "LightLeak (destello de luz)",
+"grupo": "escena",
+"a": 36.8,
+"b": 38.2
+},
+{
+"id": "drip",
+"label": "Drip (goteo)",
+"grupo": "escena",
+"a": 38.2,
+"b": 39.6
+},
+{
+"id": "ripplereveal",
+"label": "RippleReveal (ondas de agua)",
+"grupo": "escena",
+"a": 39.6,
+"b": 41.0
+},
+{
+"id": "colorbars",
+"label": "ColorBars (barras de color)",
+"grupo": "escena",
+"a": 41.0,
+"b": 42.4
+},
+{
+"id": "focusin",
+"label": "FocusIn (enfoque)",
+"grupo": "escena",
+"a": 42.4,
+"b": 43.8
+},
+{
+"id": "photodrop",
+"label": "PhotoDrop (foto que cae)",
+"grupo": "escena",
+"a": 43.8,
+"b": 45.2
+},
+{
+"id": "brushwipe",
+"label": "BrushWipe (pincelada)",
+"grupo": "escena",
+"a": 45.2,
+"b": 46.6
+},
+{
+"id": "tvswitch",
+"label": "TVSwitch (tele vieja)",
+"grupo": "escena",
+"a": 46.6,
+"b": 48.0
+},
+{
+"id": "slicein",
+"label": "SliceIn (rebanadas)",
+"grupo": "escena",
+"a": 48.0,
+"b": 49.4
+},
+{
+"id": "bubbletravel",
+"label": "BubbleTravel (burbuja viajera)",
+"grupo": "escena",
+"a": 49.4,
+"b": 50.8
+},
+{
+"id": "panup",
+"label": "PanUp (paneo hacia arriba)",
+"grupo": "escena",
+"a": 50.8,
+"b": 52.2
+},
+{
+"id": "fog",
+"label": "Fog (niebla)",
+"grupo": "ambiente",
+"a": 18.9,
+"b": 20.4
+},
+{
+"id": "lightshafts",
+"label": "LightShafts (haces de luz)",
+"grupo": "ambiente",
+"a": 20.4,
+"b": 21.9
+},
+{
+"id": "candlelight",
+"label": "Candlelight (luz de vela)",
+"grupo": "ambiente",
+"a": 21.9,
+"b": 23.4
+},
+{
+"id": "fireflies",
+"label": "Fireflies (luciérnagas)",
+"grupo": "ambiente",
+"a": 23.4,
+"b": 24.9
+},
+{
+"id": "sandstorm",
+"label": "Sandstorm (tormenta de arena)",
+"grupo": "ambiente",
+"a": 24.9,
+"b": 26.4
+},
+{
+"id": "underwater",
+"label": "Underwater (bajo el agua)",
+"grupo": "ambiente",
+"a": 26.4,
+"b": 27.9
+},
+{
+"id": "leaves",
+"label": "FallingLeaves (hojas)",
+"grupo": "ambiente",
+"a": 27.9,
+"b": 29.4
+},
+{
+"id": "petals",
+"label": "FallingLeaves petals (pétalos)",
+"grupo": "ambiente",
+"a": 29.4,
+"b": 30.9
+},
+{
+"id": "clouds",
+"label": "Clouds (nubes)",
+"grupo": "ambiente",
+"a": 30.9,
+"b": 32.4
+},
+{
+"id": "shootingstars",
+"label": "ShootingStars (estrellas fugaces)",
+"grupo": "ambiente",
+"a": 32.4,
+"b": 33.9
+},
+{
+"id": "fireglow",
+"label": "FireGlow (fogata)",
+"grupo": "ambiente",
+"a": 33.9,
+"b": 35.4
+},
+{
+"id": "stormflash",
+"label": "StormFlash (tormenta lejana)",
+"grupo": "ambiente",
+"a": 35.4,
+"b": 36.9
+},
+{
+"id": "dream",
+"label": "Dream (sueño / recuerdo)",
+"grupo": "ambiente",
+"a": 36.9,
+"b": 38.4
+},
+{
+"id": "holyglow",
+"label": "HolyGlow (resplandor sagrado)",
+"grupo": "ambiente",
+"a": 38.4,
+"b": 39.9
+},
+{
+"id": "tensionpulse",
+"label": "TensionPulse (tensión)",
+"grupo": "ambiente",
+"a": 39.9,
+"b": 41.4
+},
+{
+"id": "frost",
+"label": "Frost (frío)",
+"grupo": "ambiente",
+"a": 41.4,
+"b": 42.9
+},
+{
+"id": "smokerise",
+"label": "SmokeRise (humo que sube)",
+"grupo": "ambiente",
+"a": 42.9,
+"b": 44.4
+},
+{
+"id": "windstreaks",
+"label": "WindStreaks (viento)",
+"grupo": "ambiente",
+"a": 44.4,
+"b": 45.9
+},
+{
+"id": "bokeh",
+"label": "Bokeh (luces)",
+"grupo": "ambiente",
+"a": 45.9,
+"b": 47.4
+},
+{
+"id": "desertscape",
+"label": "DesertScape (paisaje desierto)",
+"grupo": "fondos",
+"a": 0.0,
+"b": 1.5
+},
+{
+"id": "hillsscape",
+"label": "HillsScape (colinas)",
+"grupo": "fondos",
+"a": 1.5,
+"b": 3.0
+},
+{
+"id": "hillsscape_night",
+"label": "HillsScape night (colinas de noche)",
+"grupo": "fondos",
+"a": 3.0,
+"b": 4.5
+},
+{
+"id": "seascape",
+"label": "SeaScape (mar)",
+"grupo": "fondos",
+"a": 4.5,
+"b": 6.0
+},
+{
+"id": "seascape_sunset",
+"label": "SeaScape sunset (atardecer)",
+"grupo": "fondos",
+"a": 6.0,
+"b": 7.5
+},
+{
+"id": "walledcity",
+"label": "WalledCityScape (ciudad amurallada)",
+"grupo": "fondos",
+"a": 7.5,
+"b": 9.0
+},
+{
+"id": "inktext",
+"label": "InkText (tinta sobre pergamino, pluma por palabra)",
+"grupo": "texto",
+"a": 52.719,
+"b": 61.119
+}
+],
+"sonidos": [
+{
+"id": "01_pop_texto",
+"desc": "aparece texto",
+"tipo": "base",
+"a": 0,
+"b": 0.36
+},
+{
+"id": "02_pop_suave",
+"desc": "aparece objeto",
+"tipo": "base",
+"a": 0.86,
+"b": 1.28
+},
+{
+"id": "03_click",
+"desc": "detalle chico, ✓",
+"tipo": "base",
+"a": 1.78,
+"b": 1.84
+},
+{
+"id": "04_whoosh_corto",
+"desc": "deslizamiento",
+"tipo": "base",
+"a": 2.34,
+"b": 3.19
+},
+{
+"id": "05_whoosh_largo",
+"desc": "cambio de escena",
+"tipo": "base",
+"a": 3.69,
+"b": 5.49
+},
+{
+"id": "06_golpe_grave",
+"desc": "dato fuerte",
+"tipo": "base",
+"a": 5.99,
+"b": 8.69
+},
+{
+"id": "07_impacto",
+"desc": "impacto, revelación",
+"tipo": "base",
+"a": 9.19,
+"b": 13.69
+},
+{
+"id": "08_subida_larga",
+"desc": "subida larga",
+"tipo": "base",
+"a": 14.19,
+"b": 17.24
+},
+{
+"id": "09_subida_corta",
+"desc": "antes de revelar",
+"tipo": "base",
+"a": 17.74,
+"b": 19.29
+},
+{
+"id": "10_ding",
+"desc": "punto clave",
+"tipo": "base",
+"a": 19.79,
+"b": 23.29
+},
+{
+"id": "11_brillo",
+"desc": "luz, foco",
+"tipo": "base",
+"a": 23.79,
+"b": 26.39
+},
+{
+"id": "12_glitch",
+"desc": "error digital",
+"tipo": "base",
+"a": 26.89,
+"b": 27.49
+},
+{
+"id": "13_latido",
+"desc": "latido",
+"tipo": "base",
+"a": 27.99,
+"b": 29.49
+},
+{
+"id": "14_negativo",
+"desc": "negativo",
+"tipo": "base",
+"a": 29.99,
+"b": 30.99
+},
+{
+"id": "15_positivo",
+"desc": "positivo",
+"tipo": "base",
+"a": 31.49,
+"b": 32.99
+},
+{
+"id": "16_swell_invertido",
+"desc": "swell invertido",
+"tipo": "base",
+"a": 33.49,
+"b": 35.09
+},
+{
+"id": "17_tic_tac",
+"desc": "tiempo",
+"tipo": "base",
+"a": 35.59,
+"b": 37.79
+},
+{
+"id": "18_zoom",
+"desc": "zoom",
+"tipo": "base",
+"a": 38.29,
+"b": 39.29
+},
+{
+"id": "19_pagina",
+"desc": "página",
+"tipo": "base",
+"a": 39.79,
+"b": 40.69
+},
+{
+"id": "20_pluma",
+"desc": "pluma escribiendo",
+"tipo": "base",
+"a": 41.19,
+"b": 42.59
+},
+{
+"id": "21_campana",
+"desc": "campana",
+"tipo": "base",
+"a": 43.09,
+"b": 49.09
+},
+{
+"id": "22_sello",
+"desc": "sello",
+"tipo": "base",
+"a": 49.59,
+"b": 50.29
+},
+{
+"id": "23_cadena",
+"desc": "cadena",
+"tipo": "base",
+"a": 50.79,
+"b": 51.89
+},
+{
+"id": "24_candado",
+"desc": "candado",
+"tipo": "base",
+"a": 52.39,
+"b": 53.09
+},
+{
+"id": "25_pasos",
+"desc": "pasos",
+"tipo": "base",
+"a": 53.59,
+"b": 55.39
+},
+{
+"id": "26_coro",
+"desc": "coro",
+"tipo": "base",
+"a": 55.89,
+"b": 59.69
+},
+{
+"id": "27_aparece",
+"desc": "aparición",
+"tipo": "base",
+"a": 60.19,
+"b": 60.74
+},
+{
+"id": "28_intriga",
+"desc": "intriga",
+"tipo": "base",
+"a": 61.24,
+"b": 63.24
+},
+{
+"id": "29_burbuja",
+"desc": "duda, pensamiento",
+"tipo": "nuevo",
+"a": 63.74,
+"b": 63.83
+},
+{
+"id": "30_tintineo",
+"desc": "tintineo",
+"tipo": "nuevo",
+"a": 64.33,
+"b": 65.13
+},
+{
+"id": "31_glitter",
+"desc": "brillo mágico, milagro",
+"tipo": "nuevo",
+"a": 65.63,
+"b": 68.23
+},
+{
+"id": "32_explosion",
+"desc": "explosión",
+"tipo": "nuevo",
+"a": 68.73,
+"b": 70.73
+},
+{
+"id": "33_explosion_cartoon",
+"desc": "explosión cómica",
+"tipo": "nuevo",
+"a": 71.23,
+"b": 71.83
+},
+{
+"id": "34_revienta",
+"desc": "burbuja que revienta",
+"tipo": "nuevo",
+"a": 72.33,
+"b": 72.38
+},
+{
+"id": "35_drone_grave",
+"desc": "misterio grave",
+"tipo": "nuevo",
+"a": 72.88,
+"b": 75.88
+},
+{
+"id": "36_tension_creciente",
+"desc": "tensión que crece",
+"tipo": "nuevo",
+"a": 76.38,
+"b": 79.38
+},
+{
+"id": "37_zumbido_electrico",
+"desc": "zumbido eléctrico",
+"tipo": "nuevo",
+"a": 79.88,
+"b": 80.88
+},
+{
+"id": "38_chispa",
+"desc": "chispa",
+"tipo": "nuevo",
+"a": 81.38,
+"b": 82.08
+},
+{
+"id": "39_estatica",
+"desc": "estática, enjambre",
+"tipo": "nuevo",
+"a": 82.58,
+"b": 83.58
+},
+{
+"id": "40_rechazo",
+"desc": "rechazo",
+"tipo": "nuevo",
+"a": 84.08,
+"b": 84.48
+},
+{
+"id": "41_moneda",
+"desc": "acierto, premio",
+"tipo": "nuevo",
+"a": 84.98,
+"b": 85.58
+},
+{
+"id": "42_bip",
+"desc": "bip",
+"tipo": "nuevo",
+"a": 86.08,
+"b": 86.17
+},
+{
+"id": "43_comunicacion",
+"desc": "pitidos de comunicación",
+"tipo": "nuevo",
+"a": 86.67,
+"b": 87.37
+},
+{
+"id": "44_pin_mapa",
+"desc": "pin en mapa",
+"tipo": "nuevo",
+"a": 87.87,
+"b": 88.37
+},
+{
+"id": "45_escaneo",
+"desc": "escaneo, dial",
+"tipo": "nuevo",
+"a": 88.87,
+"b": 89.87
+},
+{
+"id": "46_tictac_acelera",
+"desc": "tiempo que corre",
+"tipo": "nuevo",
+"a": 90.37,
+"b": 92.97
+},
+{
+"id": "47_papel_rasga",
+"desc": "papel que se rasga",
+"tipo": "nuevo",
+"a": 93.47,
+"b": 94.17
+},
+{
+"id": "48_libro_abre",
+"desc": "libro que se abre",
+"tipo": "nuevo",
+"a": 94.67,
+"b": 95.17
+},
+{
+"id": "49_teclado",
+"desc": "teclado",
+"tipo": "nuevo",
+"a": 95.67,
+"b": 96.67
+},
+{
+"id": "50_clink",
+"desc": "metal, martillo",
+"tipo": "nuevo",
+"a": 97.17,
+"b": 97.77
+},
+{
+"id": "51_balanza",
+"desc": "balanza",
+"tipo": "nuevo",
+"a": 98.27,
+"b": 98.87
+},
+{
+"id": "52_madera",
+"desc": "madera",
+"tipo": "nuevo",
+"a": 99.37,
+"b": 99.67
+},
+{
+"id": "53_resorte",
+"desc": "resorte",
+"tipo": "nuevo",
+"a": 100.17,
+"b": 100.77
+},
+{
+"id": "54_aplauso",
+"desc": "aplauso",
+"tipo": "nuevo",
+"a": 101.27,
+"b": 102.77
+},
+{
+"id": "55_obturador",
+"desc": "obturador",
+"tipo": "nuevo",
+"a": 103.27,
+"b": 103.52
+},
+{
+"id": "56_agua_corre",
+"desc": "agua corriendo",
+"tipo": "nuevo",
+"a": 104.02,
+"b": 106.02
+},
+{
+"id": "57_burbujeo",
+"desc": "burbujeo",
+"tipo": "nuevo",
+"a": 106.52,
+"b": 108.02
+},
+{
+"id": "58_chapoteo",
+"desc": "chapoteo",
+"tipo": "nuevo",
+"a": 108.52,
+"b": 109.42
+},
+{
+"id": "59_viento",
+"desc": "viento",
+"tipo": "nuevo",
+"a": 109.92,
+"b": 112.92
+},
+{
+"id": "60_lluvia_trueno",
+"desc": "lluvia + trueno",
+"tipo": "nuevo",
+"a": 113.42,
+"b": 117.42
+},
+{
+"id": "61_trueno",
+"desc": "trueno",
+"tipo": "nuevo",
+"a": 117.92,
+"b": 120.92
+},
+{
+"id": "62_fuego",
+"desc": "fuego",
+"tipo": "nuevo",
+"a": 121.42,
+"b": 124.42
+},
+{
+"id": "63_despegue",
+"desc": "motor, despegue",
+"tipo": "nuevo",
+"a": 124.92,
+"b": 127.42
+},
+{
+"id": "64_latido_plano",
+"desc": "latido → línea plana",
+"tipo": "nuevo",
+"a": 127.92,
+"b": 131.92
+},
+{
+"id": "65_esfuerzo",
+"desc": "esfuerzo",
+"tipo": "nuevo",
+"a": 132.42,
+"b": 133.12
+},
+{
+"id": "66_doppler",
+"desc": "algo que pasa rápido",
+"tipo": "nuevo",
+"a": 133.62,
+"b": 134.82
+},
+{
+"id": "67_susurro",
+"desc": "susurro místico",
+"tipo": "nuevo",
+"a": 135.32,
+"b": 137.82
+},
+{
+"id": "68_multitud",
+"desc": "multitud",
+"tipo": "nuevo",
+"a": 138.32,
+"b": 141.32
+},
+{
+"id": "69_geiger",
+"desc": "Geiger",
+"tipo": "nuevo",
+"a": 141.82,
+"b": 143.32
+},
+{
+"id": "70_vidrio_rompe",
+"desc": "vidrio que se rompe",
+"tipo": "nuevo",
+"a": 143.82,
+"b": 145.02
+},
+{
+"id": "71_piedra_rueda",
+"desc": "piedra que rueda",
+"tipo": "nuevo",
+"a": 145.52,
+"b": 147.52
+},
+{
+"id": "72_shofar",
+"desc": "shofar",
+"tipo": "nuevo",
+"a": 148.02,
+"b": 149.82
+},
+{
+"id": "73_espada",
+"desc": "espada",
+"tipo": "nuevo",
+"a": 150.32,
+"b": 151.52
+},
+{
+"id": "74_rasguido",
+"desc": "congelar imagen",
+"tipo": "nuevo",
+"a": 152.02,
+"b": 152.52
+},
+{
+"id": "75_suspiro",
+"desc": "suspiro",
+"tipo": "nuevo",
+"a": 153.02,
+"b": 154.22
+},
+{
+"id": "76_sorpresa",
+"desc": "sorpresa",
+"tipo": "nuevo",
+"a": 154.72,
+"b": 155.07
+},
+{
+"id": "77_tada",
+"desc": "ta-da, logro",
+"tipo": "nuevo",
+"a": 155.57,
+"b": 156.97
+},
+{
+"id": "78_boing",
+"desc": "boing",
+"tipo": "nuevo",
+"a": 157.47,
+"b": 158.17
+},
+{
+"id": "p_barrera",
+"desc": "barrera",
+"tipo": "base",
+"a": 158.67,
+"b": 160.77
+},
+{
+"id": "p_candado",
+"desc": "candado",
+"tipo": "base",
+"a": 161.27,
+"b": 161.92
+},
+{
+"id": "p_cuerda1",
+"desc": "",
+"tipo": "base",
+"a": 162.42,
+"b": 164.32
+},
+{
+"id": "p_cuerda2",
+"desc": "",
+"tipo": "base",
+"a": 164.82,
+"b": 166.72
+},
+{
+"id": "p_cuerda3",
+"desc": "",
+"tipo": "base",
+"a": 167.22,
+"b": 169.12
+},
+{
+"id": "p_cuerda4",
+"desc": "",
+"tipo": "base",
+"a": 169.62,
+"b": 171.52
+},
+{
+"id": "p_cuerda5",
+"desc": "",
+"tipo": "base",
+"a": 172.02,
+"b": 173.92
+},
+{
+"id": "p_duda",
+"desc": "duda",
+"tipo": "base",
+"a": 174.42,
+"b": 175.07
+},
+{
+"id": "p_lapiz",
+"desc": "línea dibujada",
+"tipo": "base",
+"a": 175.57,
+"b": 176.77
+},
+{
+"id": "p_luz",
+"desc": "luz",
+"tipo": "base",
+"a": 177.27,
+"b": 180.27
+},
+{
+"id": "p_pagina",
+"desc": "cambio de escena en papel",
+"tipo": "base",
+"a": 180.77,
+"b": 181.47
+},
+{
+"id": "p_pasos",
+"desc": "alguien se va",
+"tipo": "base",
+"a": 181.97,
+"b": 183.87
+},
+{
+"id": "p_pop1",
+"desc": "",
+"tipo": "base",
+"a": 184.37,
+"b": 184.72
+},
+{
+"id": "p_pop2",
+"desc": "",
+"tipo": "base",
+"a": 185.22,
+"b": 185.57
+},
+{
+"id": "p_pop3",
+"desc": "",
+"tipo": "base",
+"a": 186.07,
+"b": 186.42
+},
+{
+"id": "p_presentacion",
+"desc": "se presenta un personaje",
+"tipo": "base",
+"a": 186.92,
+"b": 189.12
+},
+{
+"id": "p_sello",
+"desc": "sello, tarjeta",
+"tipo": "base",
+"a": 189.62,
+"b": 190.17
+},
+{
+"id": "qf_buzzer",
+"desc": "X roja, negación",
+"tipo": "base",
+"a": 190.67,
+"b": 191.27
+},
+{
+"id": "qf_plop",
+"desc": "gota de sudor, cómico",
+"tipo": "base",
+"a": 191.77,
+"b": 192.12
+},
+{
+"id": "qf_ticker",
+"desc": "contador",
+"tipo": "base",
+"a": 192.62,
+"b": 193.82
+}
+],
+"musica": [
+{
+"id": "default",
+"a": 194.32,
+"b": 256.32
+},
+{
+"id": "tension",
+"a": 256.82,
+"b": 318.82
+},
+{
+"id": "misterio",
+"a": 319.32,
+"b": 381.32
+},
+{
+"id": "emotivo",
+"a": 381.82,
+"b": 443.82
+}
+]
+}

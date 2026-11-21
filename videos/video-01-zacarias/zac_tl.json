@@ -1,0 +1,118 @@
+{
+ "z1": {
+  "start": 6,
+  "dur": 81,
+  "file": "vo/z1.wav"
+ },
+ "z2": {
+  "start": 93,
+  "dur": 87,
+  "file": "vo/z2.wav"
+ },
+ "z3": {
+  "start": 186,
+  "dur": 39,
+  "file": "vo/z3.wav"
+ },
+ "z4": {
+  "start": 231,
+  "dur": 47,
+  "file": "vo/z4.wav"
+ },
+ "z5": {
+  "start": 284,
+  "dur": 41,
+  "file": "vo/z5.wav"
+ },
+ "z6": {
+  "start": 331,
+  "dur": 87,
+  "file": "vo/z6.wav"
+ },
+ "z7": {
+  "start": 424,
+  "dur": 56,
+  "file": "vo/z7.wav"
+ },
+ "z8": {
+  "start": 486,
+  "dur": 55,
+  "file": "vo/z8.wav"
+ },
+ "z9": {
+  "start": 547,
+  "dur": 55,
+  "file": "vo/z9.wav"
+ },
+ "z10": {
+  "start": 626,
+  "dur": 21,
+  "file": "vo/z10.wav"
+ },
+ "z11": {
+  "start": 667,
+  "dur": 77,
+  "file": "vo/z11.wav"
+ },
+ "z12": {
+  "start": 750,
+  "dur": 65,
+  "file": "vo/z12.wav"
+ },
+ "z13": {
+  "start": 827,
+  "dur": 36,
+  "file": "vo/z13.wav"
+ },
+ "z14": {
+  "start": 869,
+  "dur": 30,
+  "file": "vo/z14.wav"
+ },
+ "z15": {
+  "start": 915,
+  "dur": 58,
+  "file": "vo/z15.wav"
+ },
+ "z16": {
+  "start": 979,
+  "dur": 53,
+  "file": "vo/z16.wav"
+ },
+ "z17": {
+  "start": 1046,
+  "dur": 66,
+  "file": "vo/z17.wav"
+ },
+ "z18": {
+  "start": 1132,
+  "dur": 52,
+  "file": "vo/z18.wav"
+ },
+ "z19": {
+  "start": 1190,
+  "dur": 77,
+  "file": "vo/z19.wav"
+ },
+ "z20": {
+  "start": 1279,
+  "dur": 57,
+  "file": "vo/z20.wav"
+ },
+ "z21": {
+  "start": 1342,
+  "dur": 45,
+  "file": "vo/z21.wav"
+ },
+ "z22": {
+  "start": 1407,
+  "dur": 52,
+  "file": "vo/z22.wav"
+ },
+ "z23": {
+  "start": 1465,
+  "dur": 43,
+  "file": "vo/z23.wav"
+ },
+ "_total": 1558
+}

@@ -1,0 +1,2871 @@
+{
+ "altar_incienso": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/altar_incienso.png",
+  "usos": []
+ },
+ "altar_piedras": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/altar_piedras.png",
+  "usos": []
+ },
+ "arca_pacto": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/arca_pacto.png",
+  "usos": []
+ },
+ "menora": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/menora.png",
+  "usos": []
+ },
+ "mesa_panes": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/mesa_panes.png",
+  "usos": []
+ },
+ "shofar": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/shofar.png",
+  "usos": []
+ },
+ "cuerno_aceite": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cuerno_aceite.png",
+  "usos": []
+ },
+ "cantaro_aceite": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/cantaro_aceite.png",
+  "usos": []
+ },
+ "tablas_ley": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/tablas_ley.png",
+  "usos": []
+ },
+ "serpiente_bronce": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/serpiente_bronce.png",
+  "usos": []
+ },
+ "becerro_oro": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/becerro_oro.png",
+  "usos": []
+ },
+ "caliz": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/caliz.png",
+  "usos": []
+ },
+ "cruz": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/cruz.png",
+  "usos": []
+ },
+ "rosario": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/rosario.png",
+  "usos": []
+ },
+ "baculo": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/baculo.png",
+  "usos": []
+ },
+ "campana": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/campana.png",
+  "usos": []
+ },
+ "escudo_chi_rho": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/escudo_chi_rho.png",
+  "usos": []
+ },
+ "piedra_ichthys": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/piedra_ichthys.png",
+  "usos": []
+ },
+ "plato_ofrenda": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/plato_ofrenda.png",
+  "usos": []
+ },
+ "vela": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/vela.png",
+  "usos": []
+ },
+ "lampara_aceite": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/lampara_aceite.png",
+  "usos": []
+ },
+ "maqueta_templo": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/maqueta_templo.png",
+  "usos": []
+ },
+ "zarza_ardiente": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/zarza_ardiente.png",
+  "usos": []
+ },
+ "arca_noe": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/arca_noe.png",
+  "usos": []
+ },
+ "arcoiris": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/arcoiris.png",
+  "usos": []
+ },
+ "torre_babel": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/torre_babel.png",
+  "usos": []
+ },
+ "escalera": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/escalera.png",
+  "usos": []
+ },
+ "tunica_colores": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/tunica_colores.png",
+  "usos": []
+ },
+ "rama_manzanas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/rama_manzanas.png",
+  "usos": [],
+  "nota": "cortada en los bordes de la foto"
+ },
+ "honda": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/honda.png",
+  "usos": []
+ },
+ "lira": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/lira.png",
+  "usos": []
+ },
+ "pesebre": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/pesebre.png",
+  "usos": []
+ },
+ "regalos_magos": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/regalos_magos.png",
+  "usos": []
+ },
+ "clavos": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/clavos.png",
+  "usos": []
+ },
+ "piedra_redonda": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/piedra_redonda.png",
+  "usos": []
+ },
+ "sabana": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/sabana.png",
+  "usos": []
+ },
+ "cadenas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cadenas.png",
+  "usos": []
+ },
+ "carta_sello": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/carta_sello.png",
+  "usos": []
+ },
+ "moneda_denario": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/moneda_denario.png",
+  "usos": []
+ },
+ "vara": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/vara.png",
+  "usos": []
+ },
+ "cayado": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cayado.png",
+  "usos": []
+ },
+ "tienda_pieles": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/tienda_pieles.png",
+  "usos": []
+ },
+ "pozo": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/pozo.png",
+  "usos": []
+ },
+ "piramide": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/piramide.png",
+  "usos": []
+ },
+ "ankh": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/ankh.png",
+  "usos": []
+ },
+ "cayado_mayal": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/cayado_mayal.png",
+  "usos": []
+ },
+ "mascara_faraon": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/mascara_faraon.png",
+  "usos": []
+ },
+ "papiro": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/papiro.png",
+  "usos": []
+ },
+ "tablilla_cuneiforme": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/tablilla_cuneiforme.png",
+  "usos": []
+ },
+ "ladrillo_leon": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/ladrillo_leon.png",
+  "usos": []
+ },
+ "sello_cilindrico": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/sello_cilindrico.png",
+  "usos": []
+ },
+ "columna_jonica": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/columna_jonica.png",
+  "usos": []
+ },
+ "aguila_romana": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/aguila_romana.png",
+  "usos": []
+ },
+ "carro_guerra": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/carro_guerra.png",
+  "usos": []
+ },
+ "coraza_bronce": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/coraza_bronce.png",
+  "usos": []
+ },
+ "muro_ruinas": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/muro_ruinas.png",
+  "usos": []
+ },
+ "trono": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/trono.png",
+  "usos": []
+ },
+ "espada": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/espada.png",
+  "usos": []
+ },
+ "anfora": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/anfora.png",
+  "usos": []
+ },
+ "cantaro": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/cantaro.png",
+  "usos": []
+ },
+ "ladrillo": {
+  "tipo": "objeto",
+  "categoria": "civilizaciones_antiguas",
+  "ruta": "objetos/civilizaciones_antiguas/ladrillo.png",
+  "usos": []
+ },
+ "biblia": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/biblia.png",
+  "usos": []
+ },
+ "biblia_negra": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/biblia_negra.png",
+  "usos": []
+ },
+ "libro_abierto": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/libro_abierto.png",
+  "usos": []
+ },
+ "libro_antiguo": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/libro_antiguo.png",
+  "usos": []
+ },
+ "libro_iluminado": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/libro_iluminado.png",
+  "usos": []
+ },
+ "libro_viejo": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/libro_viejo.png",
+  "usos": []
+ },
+ "rollo": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/rollo.png",
+  "usos": []
+ },
+ "pergamino_lacre": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/pergamino_lacre.png",
+  "usos": []
+ },
+ "pluma_tintero": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/pluma_tintero.png",
+  "usos": []
+ },
+ "imprenta": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/imprenta.png",
+  "usos": []
+ },
+ "diario": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/diario.png",
+  "usos": []
+ },
+ "maquina_escribir": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/maquina_escribir.png",
+  "usos": []
+ },
+ "cartel": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/cartel.png",
+  "usos": []
+ },
+ "burro": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/burro.png",
+  "usos": []
+ },
+ "cabra": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/cabra.png",
+  "usos": []
+ },
+ "camello": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/camello.png",
+  "usos": []
+ },
+ "carnero": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/carnero.png",
+  "usos": []
+ },
+ "cuervo": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/cuervo.png",
+  "usos": []
+ },
+ "leon": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/leon.png",
+  "usos": []
+ },
+ "oveja": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/oveja.png",
+  "usos": []
+ },
+ "paloma": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/paloma.png",
+  "usos": []
+ },
+ "pez": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/pez.png",
+  "usos": []
+ },
+ "serpiente": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/serpiente.png",
+  "usos": []
+ },
+ "arbol_raices": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/arbol_raices.png",
+  "usos": []
+ },
+ "higo": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/higo.png",
+  "usos": []
+ },
+ "lirio": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/lirio.png",
+  "usos": []
+ },
+ "planta_mostaza": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/planta_mostaza.png",
+  "usos": []
+ },
+ "rama_olivo": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/rama_olivo.png",
+  "usos": []
+ },
+ "semilla": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/semilla.png",
+  "usos": []
+ },
+ "trigo": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/trigo.png",
+  "usos": []
+ },
+ "vid_uvas": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/vid_uvas.png",
+  "usos": []
+ },
+ "pan": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/pan.png",
+  "usos": []
+ },
+ "canasta_peces": {
+  "tipo": "objeto",
+  "categoria": "plantas_y_comida",
+  "ruta": "objetos/plantas_y_comida/canasta_peces.png",
+  "usos": []
+ },
+ "ancla": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/ancla.png",
+  "usos": []
+ },
+ "antorcha": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/antorcha.png",
+  "usos": []
+ },
+ "balanza": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/balanza.png",
+  "usos": []
+ },
+ "bote": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/bote.png",
+  "usos": []
+ },
+ "cofre": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/cofre.png",
+  "usos": []
+ },
+ "fogata_piedras": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/fogata_piedras.png",
+  "usos": []
+ },
+ "llave": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/llave.png",
+  "usos": []
+ },
+ "lupa": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/lupa.png",
+  "usos": []
+ },
+ "mesa": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/mesa.png",
+  "usos": []
+ },
+ "silla": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/silla.png",
+  "usos": []
+ },
+ "puerta": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/puerta.png",
+  "usos": []
+ },
+ "molinillo": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/molinillo.png",
+  "usos": []
+ },
+ "monedas": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/monedas.png",
+  "usos": []
+ },
+ "reloj_arena": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/reloj_arena.png",
+  "usos": []
+ },
+ "reloj_bolsillo": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/reloj_bolsillo.png",
+  "usos": []
+ },
+ "piedra": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/piedra.png",
+  "usos": []
+ },
+ "sandalias": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/sandalias.png",
+  "usos": []
+ },
+ "botas": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/botas.png",
+  "usos": []
+ },
+ "panuelo": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/panuelo.png",
+  "usos": []
+ },
+ "frasco_bolitas": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/frasco_bolitas.png",
+  "usos": []
+ },
+ "velo_azul": {
+  "tipo": "objeto",
+  "categoria": "objetos_cotidianos",
+  "ruta": "objetos/objetos_cotidianos/velo_azul.png",
+  "usos": []
+ },
+ "celular": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/celular.png",
+  "usos": []
+ },
+ "laptop": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/laptop.png",
+  "usos": []
+ },
+ "microfono": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/microfono.png",
+  "usos": []
+ },
+ "radio": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/radio.png",
+  "usos": []
+ },
+ "televisor": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/televisor.png",
+  "usos": []
+ },
+ "telefono_antiguo": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/telefono_antiguo.png",
+  "usos": []
+ },
+ "reloj_pulsera": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/reloj_pulsera.png",
+  "usos": []
+ },
+ "cafetera": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/cafetera.png",
+  "usos": []
+ },
+ "linterna": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/linterna.png",
+  "usos": []
+ },
+ "despertador": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/despertador.png",
+  "usos": []
+ },
+ "auto_juguete": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/auto_juguete.png",
+  "usos": []
+ },
+ "pelo_corto_castano": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_corto_castano.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_corto_gris": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_corto_gris.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_corto_pelirrojo": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_corto_pelirrojo.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_lacio_rubio": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_lacio_rubio.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_largo_barba_blanca": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_largo_barba_blanca.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_largo_ondulado": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_largo_ondulado.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_rodete_gris": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_rodete_gris.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "pelo_rulos_negro": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/pelo_rulos_negro.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "calvo_flequillo_barba_gris": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/calvo_flequillo_barba_gris.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados"
+ },
+ "barba_asiria": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/barba_asiria.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados; no usar en la cabeza"
+ },
+ "barba_postiza_faraon": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/barba_postiza_faraon.png",
+  "usos": [],
+  "nota": "pelo y barba van dibujados; no usar en la cabeza"
+ },
+ "red_pesca": {
+  "tipo": "descarte",
+  "categoria": "descartes",
+  "ruta": "objetos/descartes/red_pesca.png",
+  "usos": [],
+  "nota": "red sobre fondo blanco: pedirla sobre fondo de color"
+ },
+ "fondo_eden": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/eden.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_diluvio": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/diluvio.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_babilonia_zigurat": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/babilonia_zigurat.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_desierto_dunas": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/desierto_dunas.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_piramides_nilo": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/piramides_nilo.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_palacio_egipcio": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/palacio_egipcio.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_monte_sinai_tormenta": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/monte_sinai_tormenta.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mar_rojo_abierto": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/mar_rojo_abierto.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_campamento_tabernaculo": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/campamento_tabernaculo.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_templo_salomon": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/templo_salomon.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_puerta_ishtar": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/puerta_ishtar.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_persepolis": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/persepolis.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_aldea_colina": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/aldea_colina.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_cueva": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/cueva.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_murallas_jerusalen": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/murallas_jerusalen.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_templo_herodes": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/templo_herodes.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_belen_noche": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/belen_noche.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mar_galilea": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/mar_galilea.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_campo_aldea": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/campo_aldea.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_tumba_vacia": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/tumba_vacia.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_jerusalen_olivos": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/jerusalen_olivos.jpg",
+  "usos": [],
+  "nota": "muestra la cúpula de la Roca: no usar para la época del Segundo Templo",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_atenas_acropolis": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/atenas_acropolis.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_roma_foro": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/roma_foro.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_catacumbas": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/catacumbas.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_constantinopla": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/constantinopla.jpg",
+  "usos": [],
+  "nota": "tiene minaretes: no usar para Bizancio antes de 1453",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_claustro_monasterio": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/claustro_monasterio.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_castillo_medieval": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/castillo_medieval.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_capilla_reformada": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/capilla_reformada.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_vaticano": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/vaticano.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_aula_moderna": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/aula_moderna.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_iglesia_moderna": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/iglesia_moderna.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_ciudad_moderna": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/ciudad_moderna.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_estadio_noche": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/estadio_noche.jpg",
+  "usos": [],
+  "nota": "tiene siluetas de personas",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_cielo": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/cielo.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mapa_antiguo": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/mapa_antiguo.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_pergamino": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/pergamino.jpg",
+  "usos": [],
+  "artifact": "Kit de shorts — fondos"
+ },
+ "sombrero_puritano": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/sombrero_puritano.png",
+  "usos": []
+ },
+ "tricornio": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/tricornio.png",
+  "usos": []
+ },
+ "salacot": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/salacot.png",
+  "usos": []
+ },
+ "fedora_azul": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/fedora_azul.png",
+  "usos": []
+ },
+ "casco_ww2": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_ww2.png",
+  "usos": []
+ },
+ "birreta_cardenal": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/birreta_cardenal.png",
+  "usos": []
+ },
+ "mitra_ortodoxa": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/mitra_ortodoxa.png",
+  "usos": []
+ },
+ "corona_doble_egipto": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona_doble_egipto.png",
+  "usos": []
+ },
+ "gorro_asirio": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_asirio.png",
+  "usos": []
+ },
+ "gorro_persa": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_persa.png",
+  "usos": []
+ },
+ "tiara_papal": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/tiara_papal.png",
+  "usos": []
+ },
+ "turbante_sumo_sacerdote": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/turbante_sumo_sacerdote.png",
+  "usos": []
+ },
+ "casco_corintio": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_corintio.png",
+  "usos": []
+ },
+ "yelmo_cruzado": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/yelmo_cruzado.png",
+  "usos": []
+ },
+ "velo_blanco": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/velo_blanco.png",
+  "usos": []
+ },
+ "hiyab_negro": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/hiyab_negro.png",
+  "usos": []
+ },
+ "peluca_sXVIII": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/peluca_sXVIII.png",
+  "usos": []
+ },
+ "corona_blanca_egipto": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona_blanca_egipto.png",
+  "usos": []
+ },
+ "gorro_conico_azul": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_conico_azul.png",
+  "usos": []
+ },
+ "kufiya": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/kufiya.png",
+  "usos": []
+ },
+ "bonnet_floral": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/bonnet_floral.png",
+  "usos": []
+ },
+ "casco_cuero_romano": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_cuero_romano.png",
+  "usos": []
+ },
+ "birrete_graduacion": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/birrete_graduacion.png",
+  "usos": []
+ },
+ "toca_monja": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/toca_monja.png",
+  "usos": []
+ },
+ "galera": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/galera.png",
+  "usos": []
+ },
+ "turbante": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/turbante.png",
+  "usos": []
+ },
+ "sombrero_paja": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/sombrero_paja.png",
+  "usos": []
+ },
+ "fedora": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/fedora.png",
+  "usos": []
+ },
+ "gorra": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorra.png",
+  "usos": []
+ },
+ "kipa": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/kipa.png",
+  "usos": []
+ },
+ "capucha_monje": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/capucha_monje.png",
+  "usos": []
+ },
+ "corona": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona.png",
+  "usos": []
+ },
+ "casco_romano": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_romano.png",
+  "usos": []
+ },
+ "kamilavka": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/kamilavka.png",
+  "usos": []
+ },
+ "boina_tudor": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/boina_tudor.png",
+  "usos": []
+ },
+ "gorro_calvino": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_calvino.png",
+  "usos": []
+ },
+ "gorro_lana": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_lana.png",
+  "usos": []
+ },
+ "mitra": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/mitra.jpg",
+  "usos": []
+ },
+ "solideo": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/solideo.jpg",
+  "usos": []
+ },
+ "collar_egipcio": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/collar_egipcio.png",
+  "usos": []
+ },
+ "pectoral_sumo_sacerdote": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/pectoral_sumo_sacerdote.png",
+  "usos": []
+ },
+ "cruz_pectoral": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/cruz_pectoral.png",
+  "usos": []
+ },
+ "medallas": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/medallas.png",
+  "usos": []
+ },
+ "alzacuello": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/alzacuello.png",
+  "usos": []
+ },
+ "bandas_ginebra": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/bandas_ginebra.png",
+  "usos": []
+ },
+ "gorguera_plana": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/gorguera_plana.png",
+  "usos": []
+ },
+ "cuello_puritano": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/cuello_puritano.png",
+  "usos": []
+ },
+ "corbata_roja": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/corbata_roja.png",
+  "usos": []
+ },
+ "corbatin_encaje": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/corbatin_encaje.png",
+  "usos": []
+ },
+ "cinturon_cuero": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/cinturon_cuero.png",
+  "usos": []
+ },
+ "cinturon_soga": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/cinturon_soga.png",
+  "usos": []
+ },
+ "bufanda": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/bufanda.png",
+  "usos": []
+ },
+ "cruz_cruzado_tela": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/cruz_cruzado_tela.png",
+  "usos": []
+ },
+ "anteojos_redondos": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/anteojos_redondos.png",
+  "usos": []
+ },
+ "anteojos_modernos": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/anteojos_modernos.png",
+  "usos": []
+ },
+ "auriculares": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/auriculares.png",
+  "usos": []
+ },
+ "corona_laurel": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/corona_laurel.png",
+  "usos": []
+ },
+ "corona_espinas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/corona_espinas.png",
+  "usos": []
+ },
+ "fondo_monte_moria_altar": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/monte_moria_altar.jpg",
+  "usos": [],
+  "id": "F06",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_scriptorium": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/scriptorium.jpg",
+  "usos": [],
+  "id": "F107b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_catedral_gotica_interior": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/catedral_gotica_interior.jpg",
+  "usos": [],
+  "id": "F113b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_castillo_wartburg": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/castillo_wartburg.jpg",
+  "usos": [],
+  "id": "F122",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_aula_universidad_medieval": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/aula_universidad_medieval.jpg",
+  "usos": [],
+  "id": "F114",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_santa_sofia_interior": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/santa_sofia_interior.jpg",
+  "usos": [],
+  "id": "F108",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_hoguera_plaza": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/hoguera_plaza.jpg",
+  "usos": [],
+  "id": "F119",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_puente_milvio": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/puente_milvio.jpg",
+  "usos": [],
+  "id": "F100",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_concilio_nicea": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/concilio_nicea.jpg",
+  "usos": [],
+  "id": "F101",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_pozo_campo": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/pozo_campo.jpg",
+  "usos": [],
+  "id": "F07",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_catedral_gotica_exterior": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/catedral_gotica_exterior.jpg",
+  "usos": [],
+  "id": "F113a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_gomorra_fuego": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/gomorra_fuego.jpg",
+  "usos": [],
+  "id": "F05b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_dieta_worms": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/dieta_worms.jpg",
+  "usos": [],
+  "id": "F121",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_carcel_egipcia": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/carcel_egipcia.jpg",
+  "usos": [],
+  "id": "F12",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_puerta_iglesia_wittenberg": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/puerta_iglesia_wittenberg.jpg",
+  "usos": [],
+  "id": "F120",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_ur_caldeos": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/ur_caldeos.jpg",
+  "usos": [],
+  "id": "F01",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_sodoma": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/sodoma.jpg",
+  "usos": [],
+  "id": "F05a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_tiendas_patriarcas": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/tiendas_patriarcas.jpg",
+  "usos": [],
+  "id": "F04",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_torre_babel": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/torre_babel.jpg",
+  "usos": [],
+  "id": "F03",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_marcha_derechos_civiles": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/marcha_derechos_civiles.jpg",
+  "usos": [],
+  "id": "F157",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mapa_mediterraneo_romano": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/mapa_mediterraneo_romano.jpg",
+  "usos": [],
+  "id": "F166",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_predicacion_aire_libre": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/predicacion_aire_libre.jpg",
+  "usos": [],
+  "id": "F135",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mapa_israel_12_tribus": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/mapa_israel_12_tribus.jpg",
+  "usos": [],
+  "id": "F167",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_noche_pascua": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/noche_pascua.jpg",
+  "usos": [],
+  "id": "F18",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mapa_mediterraneo_oriental": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/mapa_mediterraneo_oriental.jpg",
+  "usos": [],
+  "id": "F165",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_reunion_campal_bosque": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/reunion_campal_bosque.jpg",
+  "usos": [],
+  "id": "F140",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_orillas_nilo": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/orillas_nilo.jpg",
+  "usos": [],
+  "id": "F15",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_galpon_azusa": {
+  "tipo": "fondo",
+  "categoria": "actualidad",
+  "ruta": "fondos/actualidad/galpon_azusa.jpg",
+  "usos": [],
+  "id": "F148",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_mapa_europa_s16": {
+  "tipo": "fondo",
+  "categoria": "genericos",
+  "ruta": "fondos/genericos/mapa_europa_s16.jpg",
+  "usos": [],
+  "id": "F168",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_iglesia_colonial_blanca": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/iglesia_colonial_blanca.jpg",
+  "usos": [],
+  "id": "F137",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_zarza_ardiente": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/zarza_ardiente.jpg",
+  "usos": [],
+  "id": "F19",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_esclavos_ladrillos": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/esclavos_ladrillos.jpg",
+  "usos": [],
+  "id": "F16",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_londres_victoriano": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/londres_victoriano.jpg",
+  "usos": [],
+  "id": "F143",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_tabernaculo_interior": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/tabernaculo_interior.jpg",
+  "usos": [],
+  "id": "F21",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_taller_imprenta": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/taller_imprenta.jpg",
+  "usos": [],
+  "id": "F125",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_ginebra_s16": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/ginebra_s16.jpg",
+  "usos": [],
+  "id": "F123",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_celda_monasterio": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/celda_monasterio.jpg",
+  "usos": [],
+  "id": "F107a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_nazaret": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/nazaret.jpg",
+  "usos": [],
+  "id": "F54a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_palacio_susa": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/palacio_susa.jpg",
+  "usos": [],
+  "id": "F52",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_templo_destruido_fuego": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/templo_destruido_fuego.jpg",
+  "usos": [],
+  "id": "F45",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_campo_pastores_noche": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/campo_pastores_noche.jpg",
+  "usos": [],
+  "id": "F33",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_palacio_babilonia": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/palacio_babilonia.jpg",
+  "usos": [],
+  "id": "F47",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_trono_salomon": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/trono_salomon.jpg",
+  "usos": [],
+  "id": "F36",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_taller_carpintero": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/taller_carpintero.jpg",
+  "usos": [],
+  "id": "F54b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_foso_leones": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/foso_leones.jpg",
+  "usos": [],
+  "id": "F50",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_sinagoga": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/sinagoga.jpg",
+  "usos": [],
+  "id": "F57",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_ninive": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/ninive.jpg",
+  "usos": [],
+  "id": "F46",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_jerusalen_ruinas_murallas": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/jerusalen_ruinas_murallas.jpg",
+  "usos": [],
+  "id": "F53",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_establo": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/establo.jpg",
+  "usos": [],
+  "id": "F55",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_horno_fuego": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/horno_fuego.jpg",
+  "usos": [],
+  "id": "F49",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_desierto_judea": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/desierto_judea.jpg",
+  "usos": [],
+  "id": "F56",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_era_trigo": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/era_trigo.jpg",
+  "usos": [],
+  "id": "F28",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_jerico_amurallada": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/jerico_amurallada.jpg",
+  "usos": [],
+  "id": "F26",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_valle_batalla": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/valle_batalla.jpg",
+  "usos": [],
+  "id": "F27",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_rio_jordan_abierto": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/rio_jordan_abierto.jpg",
+  "usos": [],
+  "id": "F25",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_sanedrin": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/sanedrin.jpg",
+  "usos": [],
+  "id": "F79",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_pretorio_pilato": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/pretorio_pilato.jpg",
+  "usos": [],
+  "id": "F71",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_golgota_tres_cruces": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/golgota_tres_cruces.jpg",
+  "usos": [],
+  "id": "F73",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_alejandria": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/alejandria.jpg",
+  "usos": [],
+  "id": "F97",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_barco_tormenta": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/barco_tormenta.jpg",
+  "usos": [],
+  "id": "F90a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_monte_olivos": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/monte_olivos.jpg",
+  "usos": [],
+  "id": "F77",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_calle_columnata_romana": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/calle_columnata_romana.jpg",
+  "usos": [],
+  "id": "",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_antioquia": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/antioquia.jpg",
+  "usos": [],
+  "id": "F86",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_calle_teatro_grecorromana": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/calle_teatro_grecorromana.jpg",
+  "usos": [],
+  "id": "",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_getsemani_noche": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/getsemani_noche.jpg",
+  "usos": [],
+  "id": "F69",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_atrio_templo_cambistas": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/atrio_templo_cambistas.jpg",
+  "usos": [],
+  "id": "F67",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_aposento_alto": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/aposento_alto.jpg",
+  "usos": [],
+  "id": "F68",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_cisterna_seca": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/cisterna_seca.jpg",
+  "usos": [],
+  "id": "F10",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_betel_noche": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/betel_noche.jpg",
+  "usos": [],
+  "id": "F08",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_haran": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/haran.jpg",
+  "usos": [],
+  "id": "F02",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_naufragio_malta": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/naufragio_malta.jpg",
+  "usos": [],
+  "id": "F90b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_patmos": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/patmos.jpg",
+  "usos": [],
+  "id": "F91",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_efeso": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/efeso.jpg",
+  "usos": [],
+  "id": "F87",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_tumba_lazaro": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/tumba_lazaro.jpg",
+  "usos": [],
+  "id": "F65b",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_camino_damasco": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/camino_damasco.jpg",
+  "usos": [],
+  "id": "F82",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_casa_betania": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/casa_betania.jpg",
+  "usos": [],
+  "id": "F65a",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_monte_bienaventuranzas": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/monte_bienaventuranzas.jpg",
+  "usos": [],
+  "id": "F59",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_galilea_tormenta": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/galilea_tormenta.jpg",
+  "usos": [],
+  "id": "F60",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_carcel_romana": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/carcel_romana.jpg",
+  "usos": [],
+  "id": "F85",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_iglesia_en_casa": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/iglesia_en_casa.jpg",
+  "usos": [],
+  "id": "F96",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_cesarea_maritima": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/cesarea_maritima.jpg",
+  "usos": [],
+  "id": "F84",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_lapidacion_afuera_muralla": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/lapidacion_afuera_muralla.jpg",
+  "usos": [],
+  "id": "F80",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_jardin_milan": {
+  "tipo": "fondo",
+  "categoria": "historia_iglesia",
+  "ruta": "fondos/historia_iglesia/jardin_milan.jpg",
+  "usos": [],
+  "id": "F102",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_monte_carmelo_dos_altares": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/monte_carmelo_dos_altares.jpg",
+  "usos": [],
+  "id": "F39",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_pozo_seco_desierto": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/pozo_seco_desierto.jpg",
+  "usos": [],
+  "id": "",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_patio_sumo_sacerdote": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/patio_sumo_sacerdote.jpg",
+  "usos": [],
+  "id": "F70",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_pozo_jacob": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/pozo_jacob.jpg",
+  "usos": [],
+  "id": "F61",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_via_dolorosa": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/via_dolorosa.jpg",
+  "usos": [],
+  "id": "F72",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_huerto_tumba": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/huerto_tumba.jpg",
+  "usos": [],
+  "id": "F74",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_coliseo": {
+  "tipo": "fondo",
+  "categoria": "nuevo_testamento",
+  "ruta": "fondos/nuevo_testamento/coliseo.jpg",
+  "usos": [],
+  "id": "F94",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "fondo_palacio_david": {
+  "tipo": "fondo",
+  "categoria": "antiguo_testamento",
+  "ruta": "fondos/antiguo_testamento/palacio_david.jpg",
+  "usos": [],
+  "id": "F35",
+  "artifact": "Kit de shorts — fondos"
+ },
+ "corona_reina": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona_reina.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "kidaris_persa": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/kidaris_persa.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "tiara_babilonica": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/tiara_babilonica.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "casco_filisteo_penacho": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_filisteo_penacho.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "peluca_egipcia": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/peluca_egipcia.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "diadema_helenistica": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/diadema_helenistica.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "casco_centurion": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_centurion.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "talit_cabeza": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/talit_cabeza.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "diadema_imperial_romana": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/diadema_imperial_romana.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "tocado_reina_saba": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/tocado_reina_saba.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "casco_asirio_conico": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_asirio_conico.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "casco_israelita": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/casco_israelita.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "corona_bizantina": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona_bizantina.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "corona_sacro_imperio": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/corona_sacro_imperio.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "bonete_tres_picos": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/bonete_tres_picos.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "birrete_doctor": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/birrete_doctor.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "gorro_zuinglio": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_zuinglio.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "gorro_lutero": {
+  "tipo": "tocado",
+  "categoria": "tocados",
+  "ruta": "tocados/gorro_lutero.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "talit": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/talit.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "estola_sacerdotal": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/estola_sacerdotal.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "efod_sumo_sacerdote": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/efod_sumo_sacerdote.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "capa_purpura": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/capa_purpura.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "espada_cinto": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/espada_cinto.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "escudo_israelita": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/escudo_israelita.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "escudo_romano": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/escudo_romano.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "escudo_filisteo": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/escudo_filisteo.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "lanza": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/lanza.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "bolsa_monedas": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/bolsa_monedas.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "grilletes": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/grilletes.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "baston_anciano": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/baston_anciano.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "filacterias": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/filacterias.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "palio_arzobispal": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/palio_arzobispal.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "arco_carcaj": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/arco_carcaj.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "joyas_reina": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/joyas_reina.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "venda_ojos": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/venda_ojos.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "muletas": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/muletas.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "pipa": {
+  "tipo": "accesorio",
+  "categoria": "accesorios",
+  "ruta": "accesorios/pipa.png",
+  "usos": [],
+  "ajustado": false
+ },
+ "gallo_cantando": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/gallo_cantando.png",
+  "usos": []
+ },
+ "cerdo": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/cerdo.png",
+  "usos": []
+ },
+ "buey_yugo": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/buey_yugo.png",
+  "usos": []
+ },
+ "caballo_ensillado": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/caballo_ensillado.png",
+  "usos": []
+ },
+ "rana": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/rana.png",
+  "usos": []
+ },
+ "langosta": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/langosta.png",
+  "usos": []
+ },
+ "perro_pastor": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/perro_pastor.png",
+  "usos": []
+ },
+ "cordero": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/cordero.png",
+  "usos": []
+ },
+ "aguila": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/aguila.png",
+  "usos": []
+ },
+ "oso": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/oso.png",
+  "usos": []
+ },
+ "lobo": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/lobo.png",
+  "usos": []
+ },
+ "asna": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/asna.png",
+  "usos": []
+ },
+ "ranas": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/ranas.png",
+  "usos": []
+ },
+ "enjambre_langostas": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/enjambre_langostas.png",
+  "usos": []
+ },
+ "nube_moscas": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/nube_moscas.png",
+  "usos": []
+ },
+ "gallo": {
+  "tipo": "objeto",
+  "categoria": "animales",
+  "ruta": "objetos/animales/gallo.png",
+  "usos": []
+ },
+ "gran_pez": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/gran_pez.png",
+  "usos": []
+ },
+ "carro_fuego": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/carro_fuego.png",
+  "usos": []
+ },
+ "querubines": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/querubines.png",
+  "usos": []
+ },
+ "burra_balaam": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/burra_balaam.png",
+  "usos": []
+ },
+ "serafin": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/serafin.png",
+  "usos": []
+ },
+ "dragon_siete_cabezas": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/dragon_siete_cabezas.png",
+  "usos": []
+ },
+ "bestia_mar": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/bestia_mar.png",
+  "usos": []
+ },
+ "estatua_daniel2": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/estatua_daniel2.png",
+  "usos": []
+ },
+ "leon_alas": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/leon_alas.png",
+  "usos": []
+ },
+ "oso_daniel7": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/oso_daniel7.png",
+  "usos": []
+ },
+ "leopardo_cuatro_cabezas": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/leopardo_cuatro_cabezas.png",
+  "usos": []
+ },
+ "bestia_terrible": {
+  "tipo": "objeto",
+  "categoria": "seres_y_simbolos",
+  "ruta": "objetos/seres_y_simbolos/bestia_terrible.png",
+  "usos": []
+ },
+ "estatua_baal": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/estatua_baal.png",
+  "usos": []
+ },
+ "idolo_dagon": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/idolo_dagon.png",
+  "usos": []
+ },
+ "poste_asera": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/poste_asera.png",
+  "usos": []
+ },
+ "labaro": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/labaro.png",
+  "usos": []
+ },
+ "icono_bizantino": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/icono_bizantino.png",
+  "usos": []
+ },
+ "bula_excomunion": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/bula_excomunion.png",
+  "usos": []
+ },
+ "indulgencia_cofre": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/indulgencia_cofre.png",
+  "usos": []
+ },
+ "martillo_95_tesis": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/martillo_95_tesis.png",
+  "usos": []
+ },
+ "pulpito_tallado": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/pulpito_tallado.png",
+  "usos": []
+ },
+ "pulpito_campo": {
+  "tipo": "objeto",
+  "categoria": "culto_y_sagrado",
+  "ruta": "objetos/culto_y_sagrado/pulpito_campo.png",
+  "usos": []
+ },
+ "atril_moderno": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/atril_moderno.png",
+  "usos": []
+ },
+ "pantalla_escenario": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/pantalla_escenario.png",
+  "usos": []
+ },
+ "celular_biblia": {
+  "tipo": "objeto",
+  "categoria": "modernos",
+  "ruta": "objetos/modernos/celular_biblia.png",
+  "usos": []
+ },
+ "cartas_epistolas": {
+  "tipo": "objeto",
+  "categoria": "libros_y_escritura",
+  "ruta": "objetos/libros_y_escritura/cartas_epistolas.png",
+  "usos": []
+ },
+ "arbol_conocimiento": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/arbol_conocimiento.png",
+  "usos": []
+ },
+ "ofrendas_cain_abel": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/ofrendas_cain_abel.png",
+  "usos": []
+ },
+ "cuchillo_lena": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cuchillo_lena.png",
+  "usos": []
+ },
+ "cordero_pascual": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cordero_pascual.png",
+  "usos": []
+ },
+ "dintel_sangre": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/dintel_sangre.png",
+  "usos": []
+ },
+ "cantaro_antorcha": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cantaro_antorcha.png",
+  "usos": []
+ },
+ "piedras_casco_goliat": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/piedras_casco_goliat.png",
+  "usos": []
+ },
+ "altar_fuego_cielo": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/altar_fuego_cielo.png",
+  "usos": []
+ },
+ "cetro_oro": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/cetro_oro.png",
+  "usos": []
+ },
+ "tinajas_vino": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/tinajas_vino.png",
+  "usos": []
+ },
+ "doce_canastas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/doce_canastas.png",
+  "usos": []
+ },
+ "red_peces": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/red_peces.png",
+  "usos": []
+ },
+ "barca_pesca": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/barca_pesca.png",
+  "usos": []
+ },
+ "frasco_alabastro": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/frasco_alabastro.png",
+  "usos": []
+ },
+ "jofaina_toalla": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/jofaina_toalla.png",
+  "usos": []
+ },
+ "pan_sin_levadura": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/pan_sin_levadura.png",
+  "usos": []
+ },
+ "copa_ultima_cena": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/copa_ultima_cena.png",
+  "usos": []
+ },
+ "treinta_monedas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/treinta_monedas.png",
+  "usos": []
+ },
+ "latigo_romano": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/latigo_romano.png",
+  "usos": []
+ },
+ "jofaina_pilato": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/jofaina_pilato.png",
+  "usos": []
+ },
+ "velo_rasgado": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/velo_rasgado.png",
+  "usos": []
+ },
+ "lienzos_doblados": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/lienzos_doblados.png",
+  "usos": []
+ },
+ "pieles_animal": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/pieles_animal.png",
+  "usos": []
+ },
+ "carnero_zarzal": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/carnero_zarzal.png",
+  "usos": []
+ },
+ "guiso_lentejas": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/guiso_lentejas.png",
+  "usos": []
+ },
+ "copa_jose": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/copa_jose.png",
+  "usos": []
+ },
+ "vara_aaron": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/vara_aaron.png",
+  "usos": []
+ },
+ "letrero_inri": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/letrero_inri.png",
+  "usos": []
+ },
+ "estrella_belen": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/estrella_belen.png",
+  "usos": []
+ },
+ "granizo_fuego": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/granizo_fuego.png",
+  "usos": []
+ },
+ "canasta_juncos": {
+  "tipo": "objeto",
+  "categoria": "relatos_biblicos",
+  "ruta": "objetos/relatos_biblicos/canasta_juncos.png",
+  "usos": []
+ }
+}

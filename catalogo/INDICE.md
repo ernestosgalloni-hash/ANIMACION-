@@ -1,9 +1,478 @@
 # Índice del catálogo
 
-Una línea por recurso: `nombre` — qué es — archivo.
+Una línea por recurso: `nombre` — archivo. Fondos: en el artifact "Kit de shorts — fondos"; el resto: en el artifact "Kit de shorts animados — figuras blancas".
 
-## Personajes
+## accesorio · accesorios (37)
+- `alzacuello` — accesorios/alzacuello.png
+- `anteojos_modernos` — accesorios/anteojos_modernos.png
+- `anteojos_redondos` — accesorios/anteojos_redondos.png
+- `arco_carcaj` — accesorios/arco_carcaj.png
+- `auriculares` — accesorios/auriculares.png
+- `bandas_ginebra` — accesorios/bandas_ginebra.png
+- `baston_anciano` — accesorios/baston_anciano.png
+- `bolsa_monedas` — accesorios/bolsa_monedas.png
+- `bufanda` — accesorios/bufanda.png
+- `capa_purpura` — accesorios/capa_purpura.png
+- `cinturon_cuero` — accesorios/cinturon_cuero.png
+- `cinturon_soga` — accesorios/cinturon_soga.png
+- `collar_egipcio` — accesorios/collar_egipcio.png
+- `corbata_roja` — accesorios/corbata_roja.png
+- `corbatin_encaje` — accesorios/corbatin_encaje.png
+- `corona_laurel` — accesorios/corona_laurel.png
+- `cruz_cruzado_tela` — accesorios/cruz_cruzado_tela.png
+- `cruz_pectoral` — accesorios/cruz_pectoral.png
+- `cuello_puritano` — accesorios/cuello_puritano.png
+- `efod_sumo_sacerdote` — accesorios/efod_sumo_sacerdote.png
+- `escudo_filisteo` — accesorios/escudo_filisteo.png
+- `escudo_israelita` — accesorios/escudo_israelita.png
+- `escudo_romano` — accesorios/escudo_romano.png
+- `espada_cinto` — accesorios/espada_cinto.png
+- `estola_sacerdotal` — accesorios/estola_sacerdotal.png
+- `filacterias` — accesorios/filacterias.png
+- `gorguera_plana` — accesorios/gorguera_plana.png
+- `grilletes` — accesorios/grilletes.png
+- `joyas_reina` — accesorios/joyas_reina.png
+- `lanza` — accesorios/lanza.png
+- `medallas` — accesorios/medallas.png
+- `muletas` — accesorios/muletas.png
+- `palio_arzobispal` — accesorios/palio_arzobispal.png
+- `pectoral_sumo_sacerdote` — accesorios/pectoral_sumo_sacerdote.png
+- `pipa` — accesorios/pipa.png
+- `talit` — accesorios/talit.png
+- `venda_ojos` — accesorios/venda_ojos.png
 
-## Fondos
+## descarte · descartes (12)
+- `barba_asiria` — objetos/descartes/barba_asiria.png
+- `barba_postiza_faraon` — objetos/descartes/barba_postiza_faraon.png
+- `calvo_flequillo_barba_gris` — objetos/descartes/calvo_flequillo_barba_gris.png
+- `pelo_corto_castano` — objetos/descartes/pelo_corto_castano.png
+- `pelo_corto_gris` — objetos/descartes/pelo_corto_gris.png
+- `pelo_corto_pelirrojo` — objetos/descartes/pelo_corto_pelirrojo.png
+- `pelo_lacio_rubio` — objetos/descartes/pelo_lacio_rubio.png
+- `pelo_largo_barba_blanca` — objetos/descartes/pelo_largo_barba_blanca.png
+- `pelo_largo_ondulado` — objetos/descartes/pelo_largo_ondulado.png
+- `pelo_rodete_gris` — objetos/descartes/pelo_rodete_gris.png
+- `pelo_rulos_negro` — objetos/descartes/pelo_rulos_negro.png
+- `red_pesca` — objetos/descartes/red_pesca.png
 
-## Animaciones
+## fondo · actualidad (6)
+- `fondo_aula_moderna` — fondos/actualidad/aula_moderna.jpg
+- `fondo_ciudad_moderna` — fondos/actualidad/ciudad_moderna.jpg
+- `fondo_estadio_noche` — fondos/actualidad/estadio_noche.jpg
+- `fondo_galpon_azusa` — fondos/actualidad/galpon_azusa.jpg
+- `fondo_iglesia_moderna` — fondos/actualidad/iglesia_moderna.jpg
+- `fondo_marcha_derechos_civiles` — fondos/actualidad/marcha_derechos_civiles.jpg
+
+## fondo · antiguo_testamento (45)
+- `fondo_aldea_colina` — fondos/antiguo_testamento/aldea_colina.jpg
+- `fondo_babilonia_zigurat` — fondos/antiguo_testamento/babilonia_zigurat.jpg
+- `fondo_betel_noche` — fondos/antiguo_testamento/betel_noche.jpg
+- `fondo_campamento_tabernaculo` — fondos/antiguo_testamento/campamento_tabernaculo.jpg
+- `fondo_carcel_egipcia` — fondos/antiguo_testamento/carcel_egipcia.jpg
+- `fondo_cisterna_seca` — fondos/antiguo_testamento/cisterna_seca.jpg
+- `fondo_cueva` — fondos/antiguo_testamento/cueva.jpg
+- `fondo_desierto_dunas` — fondos/antiguo_testamento/desierto_dunas.jpg
+- `fondo_diluvio` — fondos/antiguo_testamento/diluvio.jpg
+- `fondo_eden` — fondos/antiguo_testamento/eden.jpg
+- `fondo_era_trigo` — fondos/antiguo_testamento/era_trigo.jpg
+- `fondo_esclavos_ladrillos` — fondos/antiguo_testamento/esclavos_ladrillos.jpg
+- `fondo_foso_leones` — fondos/antiguo_testamento/foso_leones.jpg
+- `fondo_gomorra_fuego` — fondos/antiguo_testamento/gomorra_fuego.jpg
+- `fondo_haran` — fondos/antiguo_testamento/haran.jpg
+- `fondo_horno_fuego` — fondos/antiguo_testamento/horno_fuego.jpg
+- `fondo_jerico_amurallada` — fondos/antiguo_testamento/jerico_amurallada.jpg
+- `fondo_jerusalen_ruinas_murallas` — fondos/antiguo_testamento/jerusalen_ruinas_murallas.jpg
+- `fondo_mar_rojo_abierto` — fondos/antiguo_testamento/mar_rojo_abierto.jpg
+- `fondo_monte_carmelo_dos_altares` — fondos/antiguo_testamento/monte_carmelo_dos_altares.jpg
+- `fondo_monte_moria_altar` — fondos/antiguo_testamento/monte_moria_altar.jpg
+- `fondo_monte_sinai_tormenta` — fondos/antiguo_testamento/monte_sinai_tormenta.jpg
+- `fondo_ninive` — fondos/antiguo_testamento/ninive.jpg
+- `fondo_noche_pascua` — fondos/antiguo_testamento/noche_pascua.jpg
+- `fondo_orillas_nilo` — fondos/antiguo_testamento/orillas_nilo.jpg
+- `fondo_palacio_babilonia` — fondos/antiguo_testamento/palacio_babilonia.jpg
+- `fondo_palacio_david` — fondos/antiguo_testamento/palacio_david.jpg
+- `fondo_palacio_egipcio` — fondos/antiguo_testamento/palacio_egipcio.jpg
+- `fondo_palacio_susa` — fondos/antiguo_testamento/palacio_susa.jpg
+- `fondo_persepolis` — fondos/antiguo_testamento/persepolis.jpg
+- `fondo_piramides_nilo` — fondos/antiguo_testamento/piramides_nilo.jpg
+- `fondo_pozo_campo` — fondos/antiguo_testamento/pozo_campo.jpg
+- `fondo_pozo_seco_desierto` — fondos/antiguo_testamento/pozo_seco_desierto.jpg
+- `fondo_puerta_ishtar` — fondos/antiguo_testamento/puerta_ishtar.jpg
+- `fondo_rio_jordan_abierto` — fondos/antiguo_testamento/rio_jordan_abierto.jpg
+- `fondo_sodoma` — fondos/antiguo_testamento/sodoma.jpg
+- `fondo_tabernaculo_interior` — fondos/antiguo_testamento/tabernaculo_interior.jpg
+- `fondo_templo_destruido_fuego` — fondos/antiguo_testamento/templo_destruido_fuego.jpg
+- `fondo_templo_salomon` — fondos/antiguo_testamento/templo_salomon.jpg
+- `fondo_tiendas_patriarcas` — fondos/antiguo_testamento/tiendas_patriarcas.jpg
+- `fondo_torre_babel` — fondos/antiguo_testamento/torre_babel.jpg
+- `fondo_trono_salomon` — fondos/antiguo_testamento/trono_salomon.jpg
+- `fondo_ur_caldeos` — fondos/antiguo_testamento/ur_caldeos.jpg
+- `fondo_valle_batalla` — fondos/antiguo_testamento/valle_batalla.jpg
+- `fondo_zarza_ardiente` — fondos/antiguo_testamento/zarza_ardiente.jpg
+
+## fondo · genericos (7)
+- `fondo_cielo` — fondos/genericos/cielo.jpg
+- `fondo_mapa_antiguo` — fondos/genericos/mapa_antiguo.jpg
+- `fondo_mapa_europa_s16` — fondos/genericos/mapa_europa_s16.jpg
+- `fondo_mapa_israel_12_tribus` — fondos/genericos/mapa_israel_12_tribus.jpg
+- `fondo_mapa_mediterraneo_oriental` — fondos/genericos/mapa_mediterraneo_oriental.jpg
+- `fondo_mapa_mediterraneo_romano` — fondos/genericos/mapa_mediterraneo_romano.jpg
+- `fondo_pergamino` — fondos/genericos/pergamino.jpg
+
+## fondo · historia_iglesia (26)
+- `fondo_aula_universidad_medieval` — fondos/historia_iglesia/aula_universidad_medieval.jpg
+- `fondo_capilla_reformada` — fondos/historia_iglesia/capilla_reformada.jpg
+- `fondo_castillo_medieval` — fondos/historia_iglesia/castillo_medieval.jpg
+- `fondo_castillo_wartburg` — fondos/historia_iglesia/castillo_wartburg.jpg
+- `fondo_catacumbas` — fondos/historia_iglesia/catacumbas.jpg
+- `fondo_catedral_gotica_exterior` — fondos/historia_iglesia/catedral_gotica_exterior.jpg
+- `fondo_catedral_gotica_interior` — fondos/historia_iglesia/catedral_gotica_interior.jpg
+- `fondo_celda_monasterio` — fondos/historia_iglesia/celda_monasterio.jpg
+- `fondo_claustro_monasterio` — fondos/historia_iglesia/claustro_monasterio.jpg
+- `fondo_concilio_nicea` — fondos/historia_iglesia/concilio_nicea.jpg
+- `fondo_constantinopla` — fondos/historia_iglesia/constantinopla.jpg
+- `fondo_dieta_worms` — fondos/historia_iglesia/dieta_worms.jpg
+- `fondo_ginebra_s16` — fondos/historia_iglesia/ginebra_s16.jpg
+- `fondo_hoguera_plaza` — fondos/historia_iglesia/hoguera_plaza.jpg
+- `fondo_iglesia_colonial_blanca` — fondos/historia_iglesia/iglesia_colonial_blanca.jpg
+- `fondo_iglesia_en_casa` — fondos/historia_iglesia/iglesia_en_casa.jpg
+- `fondo_jardin_milan` — fondos/historia_iglesia/jardin_milan.jpg
+- `fondo_londres_victoriano` — fondos/historia_iglesia/londres_victoriano.jpg
+- `fondo_predicacion_aire_libre` — fondos/historia_iglesia/predicacion_aire_libre.jpg
+- `fondo_puente_milvio` — fondos/historia_iglesia/puente_milvio.jpg
+- `fondo_puerta_iglesia_wittenberg` — fondos/historia_iglesia/puerta_iglesia_wittenberg.jpg
+- `fondo_reunion_campal_bosque` — fondos/historia_iglesia/reunion_campal_bosque.jpg
+- `fondo_santa_sofia_interior` — fondos/historia_iglesia/santa_sofia_interior.jpg
+- `fondo_scriptorium` — fondos/historia_iglesia/scriptorium.jpg
+- `fondo_taller_imprenta` — fondos/historia_iglesia/taller_imprenta.jpg
+- `fondo_vaticano` — fondos/historia_iglesia/vaticano.jpg
+
+## fondo · nuevo_testamento (43)
+- `fondo_alejandria` — fondos/nuevo_testamento/alejandria.jpg
+- `fondo_antioquia` — fondos/nuevo_testamento/antioquia.jpg
+- `fondo_aposento_alto` — fondos/nuevo_testamento/aposento_alto.jpg
+- `fondo_atenas_acropolis` — fondos/nuevo_testamento/atenas_acropolis.jpg
+- `fondo_atrio_templo_cambistas` — fondos/nuevo_testamento/atrio_templo_cambistas.jpg
+- `fondo_barco_tormenta` — fondos/nuevo_testamento/barco_tormenta.jpg
+- `fondo_belen_noche` — fondos/nuevo_testamento/belen_noche.jpg
+- `fondo_calle_columnata_romana` — fondos/nuevo_testamento/calle_columnata_romana.jpg
+- `fondo_calle_teatro_grecorromana` — fondos/nuevo_testamento/calle_teatro_grecorromana.jpg
+- `fondo_camino_damasco` — fondos/nuevo_testamento/camino_damasco.jpg
+- `fondo_campo_aldea` — fondos/nuevo_testamento/campo_aldea.jpg
+- `fondo_campo_pastores_noche` — fondos/nuevo_testamento/campo_pastores_noche.jpg
+- `fondo_carcel_romana` — fondos/nuevo_testamento/carcel_romana.jpg
+- `fondo_casa_betania` — fondos/nuevo_testamento/casa_betania.jpg
+- `fondo_cesarea_maritima` — fondos/nuevo_testamento/cesarea_maritima.jpg
+- `fondo_coliseo` — fondos/nuevo_testamento/coliseo.jpg
+- `fondo_desierto_judea` — fondos/nuevo_testamento/desierto_judea.jpg
+- `fondo_efeso` — fondos/nuevo_testamento/efeso.jpg
+- `fondo_establo` — fondos/nuevo_testamento/establo.jpg
+- `fondo_galilea_tormenta` — fondos/nuevo_testamento/galilea_tormenta.jpg
+- `fondo_getsemani_noche` — fondos/nuevo_testamento/getsemani_noche.jpg
+- `fondo_golgota_tres_cruces` — fondos/nuevo_testamento/golgota_tres_cruces.jpg
+- `fondo_huerto_tumba` — fondos/nuevo_testamento/huerto_tumba.jpg
+- `fondo_jerusalen_olivos` — fondos/nuevo_testamento/jerusalen_olivos.jpg
+- `fondo_lapidacion_afuera_muralla` — fondos/nuevo_testamento/lapidacion_afuera_muralla.jpg
+- `fondo_mar_galilea` — fondos/nuevo_testamento/mar_galilea.jpg
+- `fondo_monte_bienaventuranzas` — fondos/nuevo_testamento/monte_bienaventuranzas.jpg
+- `fondo_monte_olivos` — fondos/nuevo_testamento/monte_olivos.jpg
+- `fondo_murallas_jerusalen` — fondos/nuevo_testamento/murallas_jerusalen.jpg
+- `fondo_naufragio_malta` — fondos/nuevo_testamento/naufragio_malta.jpg
+- `fondo_nazaret` — fondos/nuevo_testamento/nazaret.jpg
+- `fondo_patio_sumo_sacerdote` — fondos/nuevo_testamento/patio_sumo_sacerdote.jpg
+- `fondo_patmos` — fondos/nuevo_testamento/patmos.jpg
+- `fondo_pozo_jacob` — fondos/nuevo_testamento/pozo_jacob.jpg
+- `fondo_pretorio_pilato` — fondos/nuevo_testamento/pretorio_pilato.jpg
+- `fondo_roma_foro` — fondos/nuevo_testamento/roma_foro.jpg
+- `fondo_sanedrin` — fondos/nuevo_testamento/sanedrin.jpg
+- `fondo_sinagoga` — fondos/nuevo_testamento/sinagoga.jpg
+- `fondo_taller_carpintero` — fondos/nuevo_testamento/taller_carpintero.jpg
+- `fondo_templo_herodes` — fondos/nuevo_testamento/templo_herodes.jpg
+- `fondo_tumba_lazaro` — fondos/nuevo_testamento/tumba_lazaro.jpg
+- `fondo_tumba_vacia` — fondos/nuevo_testamento/tumba_vacia.jpg
+- `fondo_via_dolorosa` — fondos/nuevo_testamento/via_dolorosa.jpg
+
+## objeto · animales (26)
+- `aguila` — objetos/animales/aguila.png
+- `asna` — objetos/animales/asna.png
+- `buey_yugo` — objetos/animales/buey_yugo.png
+- `burro` — objetos/animales/burro.png
+- `caballo_ensillado` — objetos/animales/caballo_ensillado.png
+- `cabra` — objetos/animales/cabra.png
+- `camello` — objetos/animales/camello.png
+- `carnero` — objetos/animales/carnero.png
+- `cerdo` — objetos/animales/cerdo.png
+- `cordero` — objetos/animales/cordero.png
+- `cuervo` — objetos/animales/cuervo.png
+- `enjambre_langostas` — objetos/animales/enjambre_langostas.png
+- `gallo` — objetos/animales/gallo.png
+- `gallo_cantando` — objetos/animales/gallo_cantando.png
+- `langosta` — objetos/animales/langosta.png
+- `leon` — objetos/animales/leon.png
+- `lobo` — objetos/animales/lobo.png
+- `nube_moscas` — objetos/animales/nube_moscas.png
+- `oso` — objetos/animales/oso.png
+- `oveja` — objetos/animales/oveja.png
+- `paloma` — objetos/animales/paloma.png
+- `perro_pastor` — objetos/animales/perro_pastor.png
+- `pez` — objetos/animales/pez.png
+- `rana` — objetos/animales/rana.png
+- `ranas` — objetos/animales/ranas.png
+- `serpiente` — objetos/animales/serpiente.png
+
+## objeto · civilizaciones_antiguas (18)
+- `aguila_romana` — objetos/civilizaciones_antiguas/aguila_romana.png
+- `anfora` — objetos/civilizaciones_antiguas/anfora.png
+- `ankh` — objetos/civilizaciones_antiguas/ankh.png
+- `cantaro` — objetos/civilizaciones_antiguas/cantaro.png
+- `carro_guerra` — objetos/civilizaciones_antiguas/carro_guerra.png
+- `cayado_mayal` — objetos/civilizaciones_antiguas/cayado_mayal.png
+- `columna_jonica` — objetos/civilizaciones_antiguas/columna_jonica.png
+- `coraza_bronce` — objetos/civilizaciones_antiguas/coraza_bronce.png
+- `espada` — objetos/civilizaciones_antiguas/espada.png
+- `ladrillo` — objetos/civilizaciones_antiguas/ladrillo.png
+- `ladrillo_leon` — objetos/civilizaciones_antiguas/ladrillo_leon.png
+- `mascara_faraon` — objetos/civilizaciones_antiguas/mascara_faraon.png
+- `muro_ruinas` — objetos/civilizaciones_antiguas/muro_ruinas.png
+- `papiro` — objetos/civilizaciones_antiguas/papiro.png
+- `piramide` — objetos/civilizaciones_antiguas/piramide.png
+- `sello_cilindrico` — objetos/civilizaciones_antiguas/sello_cilindrico.png
+- `tablilla_cuneiforme` — objetos/civilizaciones_antiguas/tablilla_cuneiforme.png
+- `trono` — objetos/civilizaciones_antiguas/trono.png
+
+## objeto · culto_y_sagrado (32)
+- `altar_incienso` — objetos/culto_y_sagrado/altar_incienso.png
+- `altar_piedras` — objetos/culto_y_sagrado/altar_piedras.png
+- `arca_pacto` — objetos/culto_y_sagrado/arca_pacto.png
+- `baculo` — objetos/culto_y_sagrado/baculo.png
+- `becerro_oro` — objetos/culto_y_sagrado/becerro_oro.png
+- `bula_excomunion` — objetos/culto_y_sagrado/bula_excomunion.png
+- `caliz` — objetos/culto_y_sagrado/caliz.png
+- `campana` — objetos/culto_y_sagrado/campana.png
+- `cantaro_aceite` — objetos/culto_y_sagrado/cantaro_aceite.png
+- `cruz` — objetos/culto_y_sagrado/cruz.png
+- `escudo_chi_rho` — objetos/culto_y_sagrado/escudo_chi_rho.png
+- `estatua_baal` — objetos/culto_y_sagrado/estatua_baal.png
+- `icono_bizantino` — objetos/culto_y_sagrado/icono_bizantino.png
+- `idolo_dagon` — objetos/culto_y_sagrado/idolo_dagon.png
+- `indulgencia_cofre` — objetos/culto_y_sagrado/indulgencia_cofre.png
+- `labaro` — objetos/culto_y_sagrado/labaro.png
+- `lampara_aceite` — objetos/culto_y_sagrado/lampara_aceite.png
+- `maqueta_templo` — objetos/culto_y_sagrado/maqueta_templo.png
+- `martillo_95_tesis` — objetos/culto_y_sagrado/martillo_95_tesis.png
+- `menora` — objetos/culto_y_sagrado/menora.png
+- `mesa_panes` — objetos/culto_y_sagrado/mesa_panes.png
+- `piedra_ichthys` — objetos/culto_y_sagrado/piedra_ichthys.png
+- `plato_ofrenda` — objetos/culto_y_sagrado/plato_ofrenda.png
+- `poste_asera` — objetos/culto_y_sagrado/poste_asera.png
+- `pulpito_campo` — objetos/culto_y_sagrado/pulpito_campo.png
+- `pulpito_tallado` — objetos/culto_y_sagrado/pulpito_tallado.png
+- `rosario` — objetos/culto_y_sagrado/rosario.png
+- `serpiente_bronce` — objetos/culto_y_sagrado/serpiente_bronce.png
+- `shofar` — objetos/culto_y_sagrado/shofar.png
+- `tablas_ley` — objetos/culto_y_sagrado/tablas_ley.png
+- `vela` — objetos/culto_y_sagrado/vela.png
+- `zarza_ardiente` — objetos/culto_y_sagrado/zarza_ardiente.png
+
+## objeto · libros_y_escritura (14)
+- `biblia` — objetos/libros_y_escritura/biblia.png
+- `biblia_negra` — objetos/libros_y_escritura/biblia_negra.png
+- `cartas_epistolas` — objetos/libros_y_escritura/cartas_epistolas.png
+- `cartel` — objetos/libros_y_escritura/cartel.png
+- `diario` — objetos/libros_y_escritura/diario.png
+- `imprenta` — objetos/libros_y_escritura/imprenta.png
+- `libro_abierto` — objetos/libros_y_escritura/libro_abierto.png
+- `libro_antiguo` — objetos/libros_y_escritura/libro_antiguo.png
+- `libro_iluminado` — objetos/libros_y_escritura/libro_iluminado.png
+- `libro_viejo` — objetos/libros_y_escritura/libro_viejo.png
+- `maquina_escribir` — objetos/libros_y_escritura/maquina_escribir.png
+- `pergamino_lacre` — objetos/libros_y_escritura/pergamino_lacre.png
+- `pluma_tintero` — objetos/libros_y_escritura/pluma_tintero.png
+- `rollo` — objetos/libros_y_escritura/rollo.png
+
+## objeto · modernos (14)
+- `atril_moderno` — objetos/modernos/atril_moderno.png
+- `auto_juguete` — objetos/modernos/auto_juguete.png
+- `cafetera` — objetos/modernos/cafetera.png
+- `celular` — objetos/modernos/celular.png
+- `celular_biblia` — objetos/modernos/celular_biblia.png
+- `despertador` — objetos/modernos/despertador.png
+- `laptop` — objetos/modernos/laptop.png
+- `linterna` — objetos/modernos/linterna.png
+- `microfono` — objetos/modernos/microfono.png
+- `pantalla_escenario` — objetos/modernos/pantalla_escenario.png
+- `radio` — objetos/modernos/radio.png
+- `reloj_pulsera` — objetos/modernos/reloj_pulsera.png
+- `telefono_antiguo` — objetos/modernos/telefono_antiguo.png
+- `televisor` — objetos/modernos/televisor.png
+
+## objeto · objetos_cotidianos (21)
+- `ancla` — objetos/objetos_cotidianos/ancla.png
+- `antorcha` — objetos/objetos_cotidianos/antorcha.png
+- `balanza` — objetos/objetos_cotidianos/balanza.png
+- `botas` — objetos/objetos_cotidianos/botas.png
+- `bote` — objetos/objetos_cotidianos/bote.png
+- `cofre` — objetos/objetos_cotidianos/cofre.png
+- `fogata_piedras` — objetos/objetos_cotidianos/fogata_piedras.png
+- `frasco_bolitas` — objetos/objetos_cotidianos/frasco_bolitas.png
+- `llave` — objetos/objetos_cotidianos/llave.png
+- `lupa` — objetos/objetos_cotidianos/lupa.png
+- `mesa` — objetos/objetos_cotidianos/mesa.png
+- `molinillo` — objetos/objetos_cotidianos/molinillo.png
+- `monedas` — objetos/objetos_cotidianos/monedas.png
+- `panuelo` — objetos/objetos_cotidianos/panuelo.png
+- `piedra` — objetos/objetos_cotidianos/piedra.png
+- `puerta` — objetos/objetos_cotidianos/puerta.png
+- `reloj_arena` — objetos/objetos_cotidianos/reloj_arena.png
+- `reloj_bolsillo` — objetos/objetos_cotidianos/reloj_bolsillo.png
+- `sandalias` — objetos/objetos_cotidianos/sandalias.png
+- `silla` — objetos/objetos_cotidianos/silla.png
+- `velo_azul` — objetos/objetos_cotidianos/velo_azul.png
+
+## objeto · plantas_y_comida (10)
+- `arbol_raices` — objetos/plantas_y_comida/arbol_raices.png
+- `canasta_peces` — objetos/plantas_y_comida/canasta_peces.png
+- `higo` — objetos/plantas_y_comida/higo.png
+- `lirio` — objetos/plantas_y_comida/lirio.png
+- `pan` — objetos/plantas_y_comida/pan.png
+- `planta_mostaza` — objetos/plantas_y_comida/planta_mostaza.png
+- `rama_olivo` — objetos/plantas_y_comida/rama_olivo.png
+- `semilla` — objetos/plantas_y_comida/semilla.png
+- `trigo` — objetos/plantas_y_comida/trigo.png
+- `vid_uvas` — objetos/plantas_y_comida/vid_uvas.png
+
+## objeto · relatos_biblicos (53)
+- `altar_fuego_cielo` — objetos/relatos_biblicos/altar_fuego_cielo.png
+- `arbol_conocimiento` — objetos/relatos_biblicos/arbol_conocimiento.png
+- `arca_noe` — objetos/relatos_biblicos/arca_noe.png
+- `arcoiris` — objetos/relatos_biblicos/arcoiris.png
+- `barca_pesca` — objetos/relatos_biblicos/barca_pesca.png
+- `cadenas` — objetos/relatos_biblicos/cadenas.png
+- `canasta_juncos` — objetos/relatos_biblicos/canasta_juncos.png
+- `cantaro_antorcha` — objetos/relatos_biblicos/cantaro_antorcha.png
+- `carnero_zarzal` — objetos/relatos_biblicos/carnero_zarzal.png
+- `carta_sello` — objetos/relatos_biblicos/carta_sello.png
+- `cayado` — objetos/relatos_biblicos/cayado.png
+- `cetro_oro` — objetos/relatos_biblicos/cetro_oro.png
+- `clavos` — objetos/relatos_biblicos/clavos.png
+- `copa_jose` — objetos/relatos_biblicos/copa_jose.png
+- `copa_ultima_cena` — objetos/relatos_biblicos/copa_ultima_cena.png
+- `cordero_pascual` — objetos/relatos_biblicos/cordero_pascual.png
+- `corona_espinas` — objetos/relatos_biblicos/corona_espinas.png
+- `cuchillo_lena` — objetos/relatos_biblicos/cuchillo_lena.png
+- `cuerno_aceite` — objetos/relatos_biblicos/cuerno_aceite.png
+- `dintel_sangre` — objetos/relatos_biblicos/dintel_sangre.png
+- `doce_canastas` — objetos/relatos_biblicos/doce_canastas.png
+- `escalera` — objetos/relatos_biblicos/escalera.png
+- `estrella_belen` — objetos/relatos_biblicos/estrella_belen.png
+- `frasco_alabastro` — objetos/relatos_biblicos/frasco_alabastro.png
+- `granizo_fuego` — objetos/relatos_biblicos/granizo_fuego.png
+- `guiso_lentejas` — objetos/relatos_biblicos/guiso_lentejas.png
+- `honda` — objetos/relatos_biblicos/honda.png
+- `jofaina_pilato` — objetos/relatos_biblicos/jofaina_pilato.png
+- `jofaina_toalla` — objetos/relatos_biblicos/jofaina_toalla.png
+- `latigo_romano` — objetos/relatos_biblicos/latigo_romano.png
+- `letrero_inri` — objetos/relatos_biblicos/letrero_inri.png
+- `lienzos_doblados` — objetos/relatos_biblicos/lienzos_doblados.png
+- `lira` — objetos/relatos_biblicos/lira.png
+- `moneda_denario` — objetos/relatos_biblicos/moneda_denario.png
+- `ofrendas_cain_abel` — objetos/relatos_biblicos/ofrendas_cain_abel.png
+- `pan_sin_levadura` — objetos/relatos_biblicos/pan_sin_levadura.png
+- `pesebre` — objetos/relatos_biblicos/pesebre.png
+- `piedra_redonda` — objetos/relatos_biblicos/piedra_redonda.png
+- `piedras_casco_goliat` — objetos/relatos_biblicos/piedras_casco_goliat.png
+- `pieles_animal` — objetos/relatos_biblicos/pieles_animal.png
+- `pozo` — objetos/relatos_biblicos/pozo.png
+- `rama_manzanas` — objetos/relatos_biblicos/rama_manzanas.png
+- `red_peces` — objetos/relatos_biblicos/red_peces.png
+- `regalos_magos` — objetos/relatos_biblicos/regalos_magos.png
+- `sabana` — objetos/relatos_biblicos/sabana.png
+- `tienda_pieles` — objetos/relatos_biblicos/tienda_pieles.png
+- `tinajas_vino` — objetos/relatos_biblicos/tinajas_vino.png
+- `torre_babel` — objetos/relatos_biblicos/torre_babel.png
+- `treinta_monedas` — objetos/relatos_biblicos/treinta_monedas.png
+- `tunica_colores` — objetos/relatos_biblicos/tunica_colores.png
+- `vara` — objetos/relatos_biblicos/vara.png
+- `vara_aaron` — objetos/relatos_biblicos/vara_aaron.png
+- `velo_rasgado` — objetos/relatos_biblicos/velo_rasgado.png
+
+## objeto · seres_y_simbolos (12)
+- `bestia_mar` — objetos/seres_y_simbolos/bestia_mar.png
+- `bestia_terrible` — objetos/seres_y_simbolos/bestia_terrible.png
+- `burra_balaam` — objetos/seres_y_simbolos/burra_balaam.png
+- `carro_fuego` — objetos/seres_y_simbolos/carro_fuego.png
+- `dragon_siete_cabezas` — objetos/seres_y_simbolos/dragon_siete_cabezas.png
+- `estatua_daniel2` — objetos/seres_y_simbolos/estatua_daniel2.png
+- `gran_pez` — objetos/seres_y_simbolos/gran_pez.png
+- `leon_alas` — objetos/seres_y_simbolos/leon_alas.png
+- `leopardo_cuatro_cabezas` — objetos/seres_y_simbolos/leopardo_cuatro_cabezas.png
+- `oso_daniel7` — objetos/seres_y_simbolos/oso_daniel7.png
+- `querubines` — objetos/seres_y_simbolos/querubines.png
+- `serafin` — objetos/seres_y_simbolos/serafin.png
+
+## tocado · tocados (57)
+- `birreta_cardenal` — tocados/birreta_cardenal.png
+- `birrete_doctor` — tocados/birrete_doctor.png
+- `birrete_graduacion` — tocados/birrete_graduacion.png
+- `boina_tudor` — tocados/boina_tudor.png
+- `bonete_tres_picos` — tocados/bonete_tres_picos.png
+- `bonnet_floral` — tocados/bonnet_floral.png
+- `capucha_monje` — tocados/capucha_monje.png
+- `casco_asirio_conico` — tocados/casco_asirio_conico.png
+- `casco_centurion` — tocados/casco_centurion.png
+- `casco_corintio` — tocados/casco_corintio.png
+- `casco_cuero_romano` — tocados/casco_cuero_romano.png
+- `casco_filisteo_penacho` — tocados/casco_filisteo_penacho.png
+- `casco_israelita` — tocados/casco_israelita.png
+- `casco_romano` — tocados/casco_romano.png
+- `casco_ww2` — tocados/casco_ww2.png
+- `corona` — tocados/corona.png
+- `corona_bizantina` — tocados/corona_bizantina.png
+- `corona_blanca_egipto` — tocados/corona_blanca_egipto.png
+- `corona_doble_egipto` — tocados/corona_doble_egipto.png
+- `corona_reina` — tocados/corona_reina.png
+- `corona_sacro_imperio` — tocados/corona_sacro_imperio.png
+- `diadema_helenistica` — tocados/diadema_helenistica.png
+- `diadema_imperial_romana` — tocados/diadema_imperial_romana.png
+- `fedora` — tocados/fedora.png
+- `fedora_azul` — tocados/fedora_azul.png
+- `galera` — tocados/galera.png
+- `gorra` — tocados/gorra.png
+- `gorro_asirio` — tocados/gorro_asirio.png
+- `gorro_calvino` — tocados/gorro_calvino.png
+- `gorro_conico_azul` — tocados/gorro_conico_azul.png
+- `gorro_lana` — tocados/gorro_lana.png
+- `gorro_lutero` — tocados/gorro_lutero.png
+- `gorro_persa` — tocados/gorro_persa.png
+- `gorro_zuinglio` — tocados/gorro_zuinglio.png
+- `hiyab_negro` — tocados/hiyab_negro.png
+- `kamilavka` — tocados/kamilavka.png
+- `kidaris_persa` — tocados/kidaris_persa.png
+- `kipa` — tocados/kipa.png
+- `kufiya` — tocados/kufiya.png
+- `mitra` — tocados/mitra.jpg
+- `mitra_ortodoxa` — tocados/mitra_ortodoxa.png
+- `peluca_egipcia` — tocados/peluca_egipcia.png
+- `peluca_sXVIII` — tocados/peluca_sXVIII.png
+- `salacot` — tocados/salacot.png
+- `solideo` — tocados/solideo.jpg
+- `sombrero_paja` — tocados/sombrero_paja.png
+- `sombrero_puritano` — tocados/sombrero_puritano.png
+- `talit_cabeza` — tocados/talit_cabeza.png
+- `tiara_babilonica` — tocados/tiara_babilonica.png
+- `tiara_papal` — tocados/tiara_papal.png
+- `toca_monja` — tocados/toca_monja.png
+- `tocado_reina_saba` — tocados/tocado_reina_saba.png
+- `tricornio` — tocados/tricornio.png
+- `turbante` — tocados/turbante.png
+- `turbante_sumo_sacerdote` — tocados/turbante_sumo_sacerdote.png
+- `velo_blanco` — tocados/velo_blanco.png
+- `yelmo_cruzado` — tocados/yelmo_cruzado.png
+
+## Componentes de animación (skill/codigo/lib.jsx, 258)
+`Anathema`, `Anoint`, `Ascend`, `Aura`, `Baby`, `Badge`, `Balance`, `Baptize`, `BarCompare`, `Beam`, `BeforeAfter`, `Bg`, `BigQuestion`, `BigStat`, `BlindingLight`, `Blinds`, `Bokeh`, `Bounce`, `Bow`, `BrushWipe`, `Bubble`, `BubbleTravel`, `BurnPaper`, `Burst`, `C`, `CalendarMark`, `Callout`, `Camera`, `Candlelight`, `Captions`, `CardSlide`, `CarryCross`, `CauseEffect`, `ChainsBreak`, `Chalkboard`, `ChatThread`, `Check`, `Checklist`, `Clouds`, `ColorBars`, `ColorFill`, `CompareTable`, `Concentric`, `Confetti`, `Countdown`, `Crowd`, `Crown`, `Crucified`, `Cycle`, `Darkness`, `DateStamp`, `DayNight`, `Definition`, `Deflate`, `Demons`, `DesertScape`, `DiagonalWipe`, `Dial`, `Divine`, `DoorsOpen`, `DoveDescend`, `Draw`, `Dream`, `Drip`, `Drop`, `Earthquake`, `Emote`, `EndCTA`, `EraChange`, `Faint`, `FallingLeaves`, `Figure`, `Fire`, `FireFromSky`, `FireGlow`, `Fireflies`, `Flame`, `FlameSword`, `Flash`, `Floaters`, `FloodRise`, `Flowchart`, `Focus`, `FocusIn`, `Fog`, `FreezeFrame`, `Frost`, `Ghost`, `Give`, `Glitch`, `GlitchCut`, `Grid`, `GuideStar`, `Halo`, `Hand`, `HandCircle`, `Handshake`, `Headline`, `Heal`, `HeartBeat`, `HeavenRays`, `Highlight`, `HillsScape`, `HolyGlow`, `Hourglass`, `Hug`, `Iceberg`, `IchthysDraw`, `ImpactBurst`, `InkSpread`, `InkText`, `Iris`, `JacobLadder`, `Jail`, `Jump`, `KenBurns`, `Kneel`, `LayHands`, `LetterFly`, `LetterPop`, `LightLeak`, `LightShafts`, `Lightning`, `LineChart`, `LoadBar`, `LowerThird`, `Lying`, `Magnifier`, `MannaRain`, `MapRoute`, `Matrix2x2`, `MindMap`, `MoodTint`, `Morph`, `Mounted`, `MoveTo`, `Multiply`, `NailPaper`, `NamedRow`, `NumberedList`, `OldFilm`, `OriginalWord`, `Outfit`, `PAPER`, `PageFlip`, `PanUp`, `PaperTear`, `Parallax`, `PercentRing`, `PhotoDrop`, `Pictogram`, `PieChart`, `Pillar`, `Pin`, `PointHand`, `Polaroid`, `Pop`, `PostIt`, `PrintPress`, `Prostrate`, `PuffUp`, `Pulpit`, `PunchIn`, `Puzzle`, `Pyramid`, `QMarks`, `QuoteCard`, `Rain`, `RainCloud`, `Rainbow`, `Recoil`, `RedX`, `Rewind`, `Ribbon`, `RippleReveal`, `Run`, `Sail`, `SaltStatue`, `Sandstorm`, `ScaleRef`, `Scroll`, `SeaPart`, `SeaScape`, `Seal`, `Seated`, `Sfx`, `Shadow`, `Shake`, `ShapeReveal`, `Shatter`, `ShootingStars`, `SkyCross`, `SliceIn`, `SlideIn`, `SmokePuff`, `SmokeRise`, `Source`, `Spectrum`, `SpeedLines`, `SpinIn`, `Spotlight`, `Stack`, `Staircase`, `StarsFill`, `StoneRoll`, `Stoning`, `StormFlash`, `StormSea`, `Strike`, `Swarm`, `SweatDrop`, `TVSwitch`, `TalkingObject`, `TensionPulse`, `TextStamp`, `TextSwap`, `Thermometer`, `ThoughtCloud`, `Throw`, `Ticker`, `TileReveal`, `Timeline`, `Title`, `Tongues`, `Tree`, `Tremble`, `TypeText`, `Underline`, `Underwater`, `VS`, `VeilTear`, `Venn`, `VerseCard`, `Vignette`, `W`, `Walk`, `WallWriting`, `WalledCityScape`, `WallsFall`, `WaterToWine`, `WaterWalk`, `Whip`, `WindStreaks`, `Wings`, `WordClash`, `WordPop`, `Wrestle`, `Writer`, `ZoomFrom`, `ZoomInto`, `doubleTakeAt`, `headShakeAt`, `nodAt`, `ramp`, `sleeveColor`, `tiltAt`, `tintAt`, `usePop`
+
+## Animaciones del catálogo visual (catalogo_anim.json)
+- animaciones: `emote_1`, `emote_2_tint`, `aura_pray`, `iris`, `barcompare`, `dial_loadbar`, `maproute`, `magnifier`, `morph`, `pointhand_flash`, `papertear`, `zoominto`, `typetext`, `wordpop`, `postit_handcircle`, `strike_textstamp`, `callout`, `checklist`, `thoughtcloud`, `timeline`, `tree`, `vs`, `spotlight`, `scroll`, `walk`, `jump`, `faint`, `drop`, `shake`, `multiply`, `crowd`, `burst`, `confetti`, `rain`, `floaters`, `oldfilm`, `rewind`, `item`, `kneel_halo`, `ascend`, `heavenrays_dove`, `wings`, `flame`, `fire`, `daynight`, `darkness`, `seapart`, `floodrise`, `stormsea_lightning`, `earthquake`, `rainbow`, `guidestar`, `starsfill`, `swarm`, `wallsfall`, `stoneroll`, `veiltear`, `chainsbreak`, `colorfill`, `pillar`, `scaleref`, `versecard`, `captions`, `endcta`, `emote_3`, `emote_4`, `poses`, `head`, `tremble_deflate_puffup`, `recoil_bow_bounce`, `moveto_heartbeat`, `argue`, `moodtint`, `speedlines`, `impactburst`, `punchin`, `freezeframe`, `vignette`, `letterpop`, `highlight`, `underline`, `quotecard`, `definition`, `originalword_griego`, `originalword_hebreo`, `bigstat`, `lowerthird`, `datestamp`, `bigquestion`, `textswap`, `numberedlist`, `ribbon`, `badge`, `wordclash`, `source`, `chalkboard`, `headline`, `chatthread`, `countdown`, `piechart`, `linechart`, `venn`, `flowchart`, `cycle`, `pyramid`, `staircase`, `comparetable`, `balance`, `iceberg`, `pictogram`, `thermometer`, `hourglass`, `mindmap`, `concentric`, `causeeffect`, `matrix2x2`, `spectrum`, `stack`, `percentring`, `beforeafter`, `calendarmark`, `puzzle`, `cardslide`, `blinds`, `blinds_v`, `tilereveal`, `inkspread`, `diagonalwipe`, `shape_cross`, `shape_star`, `shape_heart`, `shape_flame`, `pageflip`, `cube`, `zoomfrom`, `glitchcut`, `shatter`, `spinin`, `doorsopen`, `smokepuff`, `lightleak`, `drip`, `ripplereveal`, `colorbars`, `focusin`, `photodrop`, `brushwipe`, `tvswitch`, `slicein`, `bubbletravel`, `panup`, `fog`, `lightshafts`, `candlelight`, `fireflies`, `sandstorm`, `underwater`, `leaves`, `petals`, `clouds`, `shootingstars`, `fireglow`, `stormflash`, `dream`, `holyglow`, `tensionpulse`, `frost`, `smokerise`, `windstreaks`, `bokeh`, `desertscape`, `hillsscape`, `hillsscape_night`, `seascape`, `seascape_sunset`, `walledcity`, `inktext`
+- sonidos: `01_pop_texto`, `02_pop_suave`, `03_click`, `04_whoosh_corto`, `05_whoosh_largo`, `06_golpe_grave`, `07_impacto`, `08_subida_larga`, `09_subida_corta`, `10_ding`, `11_brillo`, `12_glitch`, `13_latido`, `14_negativo`, `15_positivo`, `16_swell_invertido`, `17_tic_tac`, `18_zoom`, `19_pagina`, `20_pluma`, `21_campana`, `22_sello`, `23_cadena`, `24_candado`, `25_pasos`, `26_coro`, `27_aparece`, `28_intriga`, `29_burbuja`, `30_tintineo`, `31_glitter`, `32_explosion`, `33_explosion_cartoon`, `34_revienta`, `35_drone_grave`, `36_tension_creciente`, `37_zumbido_electrico`, `38_chispa`, `39_estatica`, `40_rechazo`, `41_moneda`, `42_bip`, `43_comunicacion`, `44_pin_mapa`, `45_escaneo`, `46_tictac_acelera`, `47_papel_rasga`, `48_libro_abre`, `49_teclado`, `50_clink`, `51_balanza`, `52_madera`, `53_resorte`, `54_aplauso`, `55_obturador`, `56_agua_corre`, `57_burbujeo`, `58_chapoteo`, `59_viento`, `60_lluvia_trueno`, `61_trueno`, `62_fuego`, `63_despegue`, `64_latido_plano`, `65_esfuerzo`, `66_doppler`, `67_susurro`, `68_multitud`, `69_geiger`, `70_vidrio_rompe`, `71_piedra_rueda`, `72_shofar`, `73_espada`, `74_rasguido`, `75_suspiro`, `76_sorpresa`, `77_tada`, `78_boing`, `p_barrera`, `p_candado`, `p_cuerda1`, `p_cuerda2`, `p_cuerda3`, `p_cuerda4`, `p_cuerda5`, `p_duda`, `p_lapiz`, `p_luz`, `p_pagina`, `p_pasos`, `p_pop1`, `p_pop2`, `p_pop3`, `p_presentacion`, `p_sello`, `qf_buzzer`, `qf_plop`, `qf_ticker`
+- musica: `default`, `tension`, `misterio`, `emotivo`
